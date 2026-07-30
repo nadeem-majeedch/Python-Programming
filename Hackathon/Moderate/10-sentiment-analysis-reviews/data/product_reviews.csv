@@ -1,0 +1,2001 @@
+review_id,review_text,sentiment
+R1000,I am so happy with my bluetooth speaker purchase. Works perfectly and looks great.,Positive
+R1001,"Excellent yoga mat! Easy to use, well designed, and durable.",Positive
+R1002,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R1003,My desk lamp is functional. It could use some improvements in design though.,Neutral
+R1004,My portable fan is functional. It could use some improvements in design though!!,Neutral
+R1005,Worst meal prep containers I have ever purchased. Totally useless product.,Negative
+R1006,This phone charger is fantastic. Best purchase I have made all year.,Positive
+R1007,Stay away from this phone charger! It is overpriced and underperforms.,Negative
+R1008,Great screen protector for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1009,Average coffee maker performs as expected. No complaints but no surprises.,Neutral
+R1010,This tablet stand is alright. I have seen better but I have also seen worse.,Neutral
+R1011,This wireless headphones is fantastic. Best purchase I have made all year.,Positive
+R1012,The screen protector does what it is supposed to do. That is about it.,Neutral
+R1013,Perfect wireless headphones! It does everything I wanted and more.,Positive
+R1014,Very disappointed with this portable fan. The quality is just not there.,Negative
+R1015,Absolutely love this coffee maker! It exceeded all my expectations.,Positive
+R1016,This yoga mat is alright. I have seen better but I have also seen worse.,Neutral
+R1017,Five stars! This wireless headphones is amazing and arrived quickly.,Positive
+R1018,This phone charger is fantastic. Best purchase I have made all year.,Positive
+R1019,Very satisfied with this portable fan. Exactly what I needed and more.,Positive
+R1020,Completely dissatisfied with this laptop backpack. Do not recommend it to anyone.,Negative
+R1021,The desk lamp is horrible. Customer service was no help either.,Negative
+R1022,Best mouse pad I have ever owned. The quality is top notch.,Positive
+R1023,The running shoes does what it is supposed to do. That is about it!!,Neutral
+R1024,I have mixed feelings about this desk lamp. It has some good features but also some drawbacks.,Neutral
+R1025,Decent smartphone case for the money. Not great but not terrible either.,Neutral
+R1026,My smartphone case is functional. It could use some improvements in design though.,Neutral
+R1027,I cannot believe how good this running shoes is. Totally worth every penny.,Positive
+R1028,Absolutely love this yoga mat! It exceeded all my expectations.,Positive
+R1029,Completely dissatisfied with this wireless headphones. Do not recommend it to anyone!!,Negative
+R1030,My meal prep containers is functional. It could use some improvements in design though!!,Neutral
+R1031,Very satisfied with this screen protector. Exactly what I needed and more.,Positive
+R1032,Very disappointed with this water bottle. The quality is just not there.,Negative
+R1033,I cannot believe how good this running shoes is. Totally worth every penny!!,Positive
+R1034,Very satisfied with this bluetooth speaker. Exactly what I needed and more.,Positive
+R1035,This portable fan is alright. I have seen better but I have also seen worse.,Neutral
+R1036,Perfect coffee maker! It does everything I wanted and more.,Positive
+R1037,Best mouse pad I have ever owned. The quality is top notch.,Positive
+R1038,This wireless headphones is alright. I have seen better but I have also seen worse.,Neutral
+R1039,Absolutely love this wireless headphones! It exceeded all my expectations.,Positive
+R1040,This phone charger is fantastic. Best purchase I have made all year.,Positive
+R1041,Pretty standard screen protector. Nothing really stands out about it.,Neutral
+R1042,This desk lamp works like a charm. Easy setup and intuitive controls.,Positive
+R1043,This is the worst laptop backpack ever. Save your money and buy something else.,Negative
+R1044,Completely dissatisfied with this bluetooth speaker. Do not recommend it to anyone.,Negative
+R1045,I am thrilled with my mouse pad. Shipping was fast and packaging was great.,Positive
+R1046,The tablet stand does what it is supposed to do. That is about it.,Neutral
+R1047,This smartphone case works fine. It is not the best but it gets the job done.,Neutral
+R1048,My yoga mat is wonderful. The quality is outstanding for the price point.,Positive
+R1049,This coffee maker is a game changer. So glad I decided to buy it.,Positive
+R1050,My tablet stand is wonderful. The quality is outstanding for the price point.,Positive
+R1051,Do not waste your money on this water bottle. It is poorly made and does not work well.,Negative
+R1052,The yoga mat is horrible. Customer service was no help either.,Negative
+R1053,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R1054,The coffee maker arrived on time and was as described. Nothing more to say really.,Neutral
+R1055,Not bad but not great either. The tablet stand serves its purpose.,Neutral
+R1056,Very satisfied with this tablet stand. Exactly what I needed and more.,Positive
+R1057,I regret buying this mouse pad. It stopped working after just a month.,Negative
+R1058,Average phone charger performs as expected. No complaints but no surprises.,Neutral
+R1059,Pretty standard smartphone case. Nothing really stands out about it.,Neutral
+R1060,Absolutely love this desk lamp! It exceeded all my expectations.,Positive
+R1061,My portable fan is functional. It could use some improvements in design though!!,Neutral
+R1062,Stay away from this coffee maker! It is overpriced and underperforms.,Negative
+R1063,I am thrilled with my desk lamp. Shipping was fast and packaging was great.,Positive
+R1064,This is the worst portable fan ever. Save your money and buy something else.,Negative
+R1065,Stay away from this tablet stand! It is overpriced and underperforms.,Negative
+R1066,Absolutely love this phone charger! It exceeded all my expectations.,Positive
+R1067,This is the worst portable fan ever. Save your money and buy something else.,Negative
+R1068,"Excellent bluetooth speaker! Easy to use, well designed, and durable.",Positive
+R1069,Completely dissatisfied with this water bottle. Do not recommend it to anyone.,Negative
+R1070,"Excellent meal prep containers! Easy to use, well designed, and durable!!",Positive
+R1071,Not bad but not great either. The portable fan serves its purpose.,Neutral
+R1072,Absolutely love this laptop backpack! It exceeded all my expectations.,Positive
+R1073,My portable fan is wonderful. The quality is outstanding for the price point.,Positive
+R1074,Terrible screen protector! It broke within the first week of use.,Negative
+R1075,Stay away from this meal prep containers! It is overpriced and underperforms.,Negative
+R1076,Five stars! This meal prep containers is amazing and arrived quickly.,Positive
+R1077,Completely dissatisfied with this running shoes. Do not recommend it to anyone.,Negative
+R1078,Decent screen protector for the money. Not great but not terrible either.,Neutral
+R1079,Average screen protector performs as expected. No complaints but no surprises.,Neutral
+R1080,My mouse pad is wonderful. The quality is outstanding for the price point.,Positive
+R1081,Terrible water bottle! It broke within the first week of use.,Negative
+R1082,Great bluetooth speaker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1083,I have mixed feelings about this bluetooth speaker. It has some good features but also some drawbacks.,Neutral
+R1084,This mouse pad is fantastic. Best purchase I have made all year.,Positive
+R1085,Pretty standard yoga mat. Nothing really stands out about it.,Neutral
+R1086,This laptop backpack is a game changer. So glad I decided to buy it.,Positive
+R1087,Great wireless headphones for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1088,The bluetooth speaker does what it is supposed to do. That is about it.,Neutral
+R1089,Terrible bluetooth speaker! It broke within the first week of use.,Negative
+R1090,The phone charger is horrible. Customer service was no help either.,Negative
+R1091,Pretty standard wireless headphones. Nothing really stands out about it.,Neutral
+R1092,This smartphone case is a piece of junk. Cheap materials and bad design.,Negative
+R1093,"Excellent mouse pad! Easy to use, well designed, and durable.",Positive
+R1094,I have mixed feelings about this water bottle. It has some good features but also some drawbacks.,Neutral
+R1095,This is the worst bluetooth speaker ever. Save your money and buy something else.,Negative
+R1096,Perfect meal prep containers! It does everything I wanted and more.,Positive
+R1097,Decent water bottle for the money. Not great but not terrible either.,Neutral
+R1098,Absolutely love this smartphone case! It exceeded all my expectations.,Positive
+R1099,Completely dissatisfied with this phone charger. Do not recommend it to anyone.,Negative
+R1100,I am so happy with my smartphone case purchase. Works perfectly and looks great.,Positive
+R1101,The wireless headphones is defective. Tried to get a replacement but no luck.,Negative
+R1102,Decent smartphone case for the money. Not great but not terrible either.,Neutral
+R1103,This water bottle is alright. I have seen better but I have also seen worse.,Neutral
+R1104,The portable fan does what it is supposed to do. That is about it.,Neutral
+R1105,This yoga mat works like a charm. Easy setup and intuitive controls.,Positive
+R1106,"Excellent portable fan! Easy to use, well designed, and durable.",Positive
+R1107,I am thrilled with my water bottle. Shipping was fast and packaging was great.,Positive
+R1108,This meal prep containers is a game changer. So glad I decided to buy it.,Positive
+R1109,This portable fan is a piece of junk. Cheap materials and bad design.,Negative
+R1110,The water bottle is defective. Tried to get a replacement but no luck.,Negative
+R1111,Pretty standard wireless headphones. Nothing really stands out about it!!,Neutral
+R1112,Decent phone charger for the money. Not great but not terrible either.,Neutral
+R1113,Pretty standard laptop backpack. Nothing really stands out about it.,Neutral
+R1114,Do not waste your money on this smartphone case. It is poorly made and does not work well.,Negative
+R1115,This coffee maker works like a charm. Easy setup and intuitive controls.,Positive
+R1116,Five stars! This water bottle is amazing and arrived quickly.,Positive
+R1117,I cannot believe how good this laptop backpack is. Totally worth every penny.,Positive
+R1118,My bluetooth speaker is wonderful. The quality is outstanding for the price point.,Positive
+R1119,This coffee maker is a game changer. So glad I decided to buy it.,Positive
+R1120,I am so happy with my meal prep containers purchase. Works perfectly and looks great.,Positive
+R1121,Great meal prep containers for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1122,Very disappointed with this bluetooth speaker. The quality is just not there.,Negative
+R1123,I am thrilled with my yoga mat. Shipping was fast and packaging was great.,Positive
+R1124,The meal prep containers is okay. It does the job but nothing special.,Neutral
+R1125,Awful wireless headphones with terrible build quality. I want my money back.,Negative
+R1126,The water bottle is horrible. Customer service was no help either.,Negative
+R1127,This smartphone case is a game changer. So glad I decided to buy it.,Positive
+R1128,My running shoes is functional. It could use some improvements in design though.,Neutral
+R1129,Absolutely love this water bottle! It exceeded all my expectations.,Positive
+R1130,I hate this desk lamp. It is nothing like the description said it would be.,Negative
+R1131,This desk lamp is alright. I have seen better but I have also seen worse!!,Neutral
+R1132,Stay away from this water bottle! It is overpriced and underperforms.,Negative
+R1133,Perfect bluetooth speaker! It does everything I wanted and more.,Positive
+R1134,Decent bluetooth speaker for the money. Not great but not terrible either.,Neutral
+R1135,Completely dissatisfied with this yoga mat. Do not recommend it to anyone.,Negative
+R1136,The phone charger is okay. It does the job but nothing special!!,Neutral
+R1137,This smartphone case is alright. I have seen better but I have also seen worse.,Neutral
+R1138,This is the worst screen protector ever. Save your money and buy something else.,Negative
+R1139,This coffee maker is a piece of junk. Cheap materials and bad design.,Negative
+R1140,I cannot believe how good this screen protector is. Totally worth every penny.,Positive
+R1141,Stay away from this running shoes! It is overpriced and underperforms.,Negative
+R1142,Decent yoga mat for the money. Not great but not terrible either.,Neutral
+R1143,Very satisfied with this screen protector. Exactly what I needed and more.,Positive
+R1144,"Excellent meal prep containers! Easy to use, well designed, and durable.",Positive
+R1145,This portable fan is a piece of junk. Cheap materials and bad design.,Negative
+R1146,Perfect tablet stand! It does everything I wanted and more.,Positive
+R1147,I hate this wireless headphones. It is nothing like the description said it would be.,Negative
+R1148,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R1149,It is an okay yoga mat. I might look for something better in the future.,Neutral
+R1150,Pretty standard wireless headphones. Nothing really stands out about it.,Neutral
+R1151,I cannot believe how good this smartphone case is. Totally worth every penny.,Positive
+R1152,Stay away from this smartphone case! It is overpriced and underperforms.,Negative
+R1153,Average yoga mat performs as expected. No complaints but no surprises.,Neutral
+R1154,Perfect meal prep containers! It does everything I wanted and more.,Positive
+R1155,Great meal prep containers for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1156,Great coffee maker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1157,This mouse pad is a game changer. So glad I decided to buy it.,Positive
+R1158,Amazing quality smartphone case for such a reasonable price. Will buy again.,Positive
+R1159,I am thrilled with my wireless headphones. Shipping was fast and packaging was great.,Positive
+R1160,Not bad but not great either. The mouse pad serves its purpose.,Neutral
+R1161,Amazing quality screen protector for such a reasonable price. Will buy again.,Positive
+R1162,Do not waste your money on this tablet stand. It is poorly made and does not work well.,Negative
+R1163,I cannot believe how good this coffee maker is. Totally worth every penny.,Positive
+R1164,This wireless headphones is alright. I have seen better but I have also seen worse.,Neutral
+R1165,Absolutely love this phone charger! It exceeded all my expectations.,Positive
+R1166,I have mixed feelings about this desk lamp. It has some good features but also some drawbacks.,Neutral
+R1167,"Excellent phone charger! Easy to use, well designed, and durable!!",Positive
+R1168,Great desk lamp for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1169,My yoga mat is functional. It could use some improvements in design though.,Neutral
+R1170,Average coffee maker performs as expected. No complaints but no surprises.,Neutral
+R1171,My yoga mat is wonderful. The quality is outstanding for the price point.,Positive
+R1172,Best running shoes I have ever owned. The quality is top notch.,Positive
+R1173,This running shoes works fine. It is not the best but it gets the job done.,Neutral
+R1174,The water bottle does what it is supposed to do. That is about it.,Neutral
+R1175,Average coffee maker performs as expected. No complaints but no surprises.,Neutral
+R1176,I am so happy with my laptop backpack purchase. Works perfectly and looks great.,Positive
+R1177,I am thrilled with my tablet stand. Shipping was fast and packaging was great.,Positive
+R1178,This screen protector works like a charm. Easy setup and intuitive controls.,Positive
+R1179,Awful yoga mat with terrible build quality. I want my money back.,Negative
+R1180,This mouse pad is a game changer. So glad I decided to buy it.,Positive
+R1181,Average wireless headphones performs as expected. No complaints but no surprises.,Neutral
+R1182,Decent desk lamp for the money. Not great but not terrible either.,Neutral
+R1183,My yoga mat is wonderful. The quality is outstanding for the price point.,Positive
+R1184,My coffee maker is wonderful. The quality is outstanding for the price point.,Positive
+R1185,My desk lamp is functional. It could use some improvements in design though.,Neutral
+R1186,Very satisfied with this desk lamp. Exactly what I needed and more.,Positive
+R1187,Worst yoga mat I have ever purchased. Totally useless product.,Negative
+R1188,"Excellent meal prep containers! Easy to use, well designed, and durable.",Positive
+R1189,"Excellent coffee maker! Easy to use, well designed, and durable.",Positive
+R1190,Perfect bluetooth speaker! It does everything I wanted and more.,Positive
+R1191,This desk lamp is a game changer. So glad I decided to buy it.,Positive
+R1192,Very disappointed with this smartphone case. The quality is just not there.,Negative
+R1193,Perfect yoga mat! It does everything I wanted and more.,Positive
+R1194,The desk lamp is horrible. Customer service was no help either.,Negative
+R1195,The mouse pad arrived on time and was as described. Nothing more to say really.,Neutral
+R1196,I cannot believe how good this tablet stand is. Totally worth every penny.,Positive
+R1197,Best bluetooth speaker I have ever owned. The quality is top notch.,Positive
+R1198,Best meal prep containers I have ever owned. The quality is top notch.,Positive
+R1199,Decent running shoes for the money. Not great but not terrible either.,Neutral
+R1200,The phone charger is okay. It does the job but nothing special.,Neutral
+R1201,This smartphone case is fantastic. Best purchase I have made all year.,Positive
+R1202,Amazing quality desk lamp for such a reasonable price. Will buy again.,Positive
+R1203,What a waste of money this laptop backpack turned out to be. Very poor quality.,Negative
+R1204,Very satisfied with this bluetooth speaker. Exactly what I needed and more!!,Positive
+R1205,Worst desk lamp I have ever purchased. Totally useless product.,Negative
+R1206,Not bad but not great either. The tablet stand serves its purpose.,Neutral
+R1207,Very satisfied with this coffee maker. Exactly what I needed and more.,Positive
+R1208,Stay away from this meal prep containers! It is overpriced and underperforms.,Negative
+R1209,Best desk lamp I have ever owned. The quality is top notch.,Positive
+R1210,Completely dissatisfied with this phone charger. Do not recommend it to anyone.,Negative
+R1211,"Excellent yoga mat! Easy to use, well designed, and durable.",Positive
+R1212,Five stars! This tablet stand is amazing and arrived quickly.,Positive
+R1213,Absolutely love this coffee maker! It exceeded all my expectations.,Positive
+R1214,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R1215,Amazing quality meal prep containers for such a reasonable price. Will buy again.,Positive
+R1216,Terrible coffee maker! It broke within the first week of use.,Negative
+R1217,Average water bottle performs as expected. No complaints but no surprises.,Neutral
+R1218,It is an okay laptop backpack. I might look for something better in the future.,Neutral
+R1219,I have mixed feelings about this laptop backpack. It has some good features but also some drawbacks.,Neutral
+R1220,I cannot believe how good this mouse pad is. Totally worth every penny!!,Positive
+R1221,Great desk lamp for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1222,I am thrilled with my water bottle. Shipping was fast and packaging was great.,Positive
+R1223,Best desk lamp I have ever owned. The quality is top notch.,Positive
+R1224,This laptop backpack works like a charm. Easy setup and intuitive controls.,Positive
+R1225,"Excellent desk lamp! Easy to use, well designed, and durable.",Positive
+R1226,I hate this water bottle. It is nothing like the description said it would be!!,Negative
+R1227,Very satisfied with this wireless headphones. Exactly what I needed and more.,Positive
+R1228,Pretty standard bluetooth speaker. Nothing really stands out about it!!,Neutral
+R1229,I have mixed feelings about this smartphone case. It has some good features but also some drawbacks.,Neutral
+R1230,Awful coffee maker with terrible build quality. I want my money back.,Negative
+R1231,What a waste of money this tablet stand turned out to be. Very poor quality.,Negative
+R1232,I am thrilled with my mouse pad. Shipping was fast and packaging was great!!,Positive
+R1233,It is an okay portable fan. I might look for something better in the future.,Neutral
+R1234,This screen protector works like a charm. Easy setup and intuitive controls.,Positive
+R1235,Very disappointed with this wireless headphones. The quality is just not there.,Negative
+R1236,Awful running shoes with terrible build quality. I want my money back.,Negative
+R1237,Average wireless headphones performs as expected. No complaints but no surprises.,Neutral
+R1238,Perfect phone charger! It does everything I wanted and more.,Positive
+R1239,Five stars! This desk lamp is amazing and arrived quickly.,Positive
+R1240,Absolutely love this meal prep containers! It exceeded all my expectations.,Positive
+R1241,This smartphone case works fine. It is not the best but it gets the job done.,Neutral
+R1242,Amazing quality yoga mat for such a reasonable price. Will buy again.,Positive
+R1243,This smartphone case is a piece of junk. Cheap materials and bad design.,Negative
+R1244,This bluetooth speaker works fine. It is not the best but it gets the job done.,Neutral
+R1245,Absolutely love this laptop backpack! It exceeded all my expectations.,Positive
+R1246,Not bad but not great either. The meal prep containers serves its purpose.,Neutral
+R1247,This portable fan is fantastic. Best purchase I have made all year.,Positive
+R1248,My desk lamp is functional. It could use some improvements in design though.,Neutral
+R1249,Perfect portable fan! It does everything I wanted and more.,Positive
+R1250,This meal prep containers is alright. I have seen better but I have also seen worse.,Neutral
+R1251,The laptop backpack arrived on time and was as described. Nothing more to say really.,Neutral
+R1252,My portable fan is wonderful. The quality is outstanding for the price point.,Positive
+R1253,The laptop backpack is okay. It does the job but nothing special.,Neutral
+R1254,This bluetooth speaker works fine. It is not the best but it gets the job done.,Neutral
+R1255,Very satisfied with this tablet stand. Exactly what I needed and more.,Positive
+R1256,This laptop backpack is a game changer. So glad I decided to buy it.,Positive
+R1257,"Excellent meal prep containers! Easy to use, well designed, and durable.",Positive
+R1258,This screen protector works like a charm. Easy setup and intuitive controls!!,Positive
+R1259,"Excellent bluetooth speaker! Easy to use, well designed, and durable.",Positive
+R1260,"Excellent yoga mat! Easy to use, well designed, and durable.",Positive
+R1261,I have mixed feelings about this meal prep containers. It has some good features but also some drawbacks.,Neutral
+R1262,Awful yoga mat with terrible build quality. I want my money back.,Negative
+R1263,The smartphone case does what it is supposed to do. That is about it.,Neutral
+R1264,This laptop backpack is alright. I have seen better but I have also seen worse.,Neutral
+R1265,This bluetooth speaker is a game changer. So glad I decided to buy it.,Positive
+R1266,Decent yoga mat for the money. Not great but not terrible either!!,Neutral
+R1267,I am so happy with my mouse pad purchase. Works perfectly and looks great!!,Positive
+R1268,"Excellent smartphone case! Easy to use, well designed, and durable!!",Positive
+R1269,This desk lamp works like a charm. Easy setup and intuitive controls.,Positive
+R1270,What a waste of money this water bottle turned out to be. Very poor quality!!,Negative
+R1271,My laptop backpack is functional. It could use some improvements in design though!!,Neutral
+R1272,Average screen protector performs as expected. No complaints but no surprises.,Neutral
+R1273,This mouse pad is fantastic. Best purchase I have made all year.,Positive
+R1274,Very satisfied with this yoga mat. Exactly what I needed and more.,Positive
+R1275,The mouse pad arrived on time and was as described. Nothing more to say really!!,Neutral
+R1276,Five stars! This water bottle is amazing and arrived quickly.,Positive
+R1277,I regret buying this mouse pad. It stopped working after just a month.,Negative
+R1278,Very disappointed with this smartphone case. The quality is just not there.,Negative
+R1279,This laptop backpack is a piece of junk. Cheap materials and bad design.,Negative
+R1280,I am so happy with my desk lamp purchase. Works perfectly and looks great.,Positive
+R1281,Very disappointed with this meal prep containers. The quality is just not there.,Negative
+R1282,Not bad but not great either. The desk lamp serves its purpose.,Neutral
+R1283,I am so happy with my smartphone case purchase. Works perfectly and looks great.,Positive
+R1284,My phone charger is wonderful. The quality is outstanding for the price point.,Positive
+R1285,I hate this water bottle. It is nothing like the description said it would be.,Negative
+R1286,The phone charger arrived on time and was as described. Nothing more to say really.,Neutral
+R1287,It is an okay desk lamp. I might look for something better in the future.,Neutral
+R1288,My laptop backpack is functional. It could use some improvements in design though.,Neutral
+R1289,Amazing quality phone charger for such a reasonable price. Will buy again.,Positive
+R1290,I hate this tablet stand. It is nothing like the description said it would be!!,Negative
+R1291,This wireless headphones works fine. It is not the best but it gets the job done.,Neutral
+R1292,Five stars! This screen protector is amazing and arrived quickly.,Positive
+R1293,Absolutely love this yoga mat! It exceeded all my expectations.,Positive
+R1294,This mouse pad works fine. It is not the best but it gets the job done.,Neutral
+R1295,Amazing quality water bottle for such a reasonable price. Will buy again.,Positive
+R1296,My tablet stand is wonderful. The quality is outstanding for the price point.,Positive
+R1297,This screen protector is a game changer. So glad I decided to buy it.,Positive
+R1298,This coffee maker is fantastic. Best purchase I have made all year.,Positive
+R1299,Pretty standard laptop backpack. Nothing really stands out about it.,Neutral
+R1300,Not bad but not great either. The bluetooth speaker serves its purpose.,Neutral
+R1301,This water bottle works like a charm. Easy setup and intuitive controls.,Positive
+R1302,Absolutely love this coffee maker! It exceeded all my expectations.,Positive
+R1303,Awful smartphone case with terrible build quality. I want my money back.,Negative
+R1304,It is an okay screen protector. I might look for something better in the future.,Neutral
+R1305,Awful mouse pad with terrible build quality. I want my money back.,Negative
+R1306,The water bottle is okay. It does the job but nothing special.,Neutral
+R1307,Five stars! This wireless headphones is amazing and arrived quickly.,Positive
+R1308,I am so happy with my water bottle purchase. Works perfectly and looks great.,Positive
+R1309,The bluetooth speaker is okay. It does the job but nothing special.,Neutral
+R1310,My tablet stand is functional. It could use some improvements in design though.,Neutral
+R1311,Five stars! This running shoes is amazing and arrived quickly.,Positive
+R1312,Decent yoga mat for the money. Not great but not terrible either.,Neutral
+R1313,The phone charger is horrible. Customer service was no help either.,Negative
+R1314,I am thrilled with my running shoes. Shipping was fast and packaging was great.,Positive
+R1315,Stay away from this tablet stand! It is overpriced and underperforms.,Negative
+R1316,Great water bottle for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1317,Average phone charger performs as expected. No complaints but no surprises.,Neutral
+R1318,My running shoes is wonderful. The quality is outstanding for the price point.,Positive
+R1319,The smartphone case does what it is supposed to do. That is about it.,Neutral
+R1320,My laptop backpack is wonderful. The quality is outstanding for the price point.,Positive
+R1321,This portable fan works fine. It is not the best but it gets the job done.,Neutral
+R1322,I am thrilled with my mouse pad. Shipping was fast and packaging was great.,Positive
+R1323,The wireless headphones is defective. Tried to get a replacement but no luck.,Negative
+R1324,Do not waste your money on this yoga mat. It is poorly made and does not work well.,Negative
+R1325,Pretty standard smartphone case. Nothing really stands out about it.,Neutral
+R1326,This mouse pad works like a charm. Easy setup and intuitive controls!!,Positive
+R1327,I am thrilled with my meal prep containers. Shipping was fast and packaging was great.,Positive
+R1328,Great yoga mat for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1329,Very satisfied with this phone charger. Exactly what I needed and more.,Positive
+R1330,Pretty standard water bottle. Nothing really stands out about it.,Neutral
+R1331,The desk lamp is okay. It does the job but nothing special.,Neutral
+R1332,Absolutely love this phone charger! It exceeded all my expectations!!,Positive
+R1333,Awful laptop backpack with terrible build quality. I want my money back.,Negative
+R1334,Perfect tablet stand! It does everything I wanted and more!!,Positive
+R1335,Five stars! This desk lamp is amazing and arrived quickly.,Positive
+R1336,This yoga mat works like a charm. Easy setup and intuitive controls.,Positive
+R1337,I cannot believe how good this desk lamp is. Totally worth every penny.,Positive
+R1338,This meal prep containers is fantastic. Best purchase I have made all year.,Positive
+R1339,This water bottle is alright. I have seen better but I have also seen worse.,Neutral
+R1340,Very satisfied with this tablet stand. Exactly what I needed and more!!,Positive
+R1341,This laptop backpack is alright. I have seen better but I have also seen worse.,Neutral
+R1342,I have mixed feelings about this meal prep containers. It has some good features but also some drawbacks.,Neutral
+R1343,Five stars! This desk lamp is amazing and arrived quickly.,Positive
+R1344,I regret buying this phone charger. It stopped working after just a month.,Negative
+R1345,It is an okay screen protector. I might look for something better in the future.,Neutral
+R1346,Very satisfied with this wireless headphones. Exactly what I needed and more.,Positive
+R1347,It is an okay yoga mat. I might look for something better in the future.,Neutral
+R1348,Very satisfied with this running shoes. Exactly what I needed and more.,Positive
+R1349,The desk lamp does what it is supposed to do. That is about it.,Neutral
+R1350,It is an okay bluetooth speaker. I might look for something better in the future.,Neutral
+R1351,Not bad but not great either. The yoga mat serves its purpose.,Neutral
+R1352,This bluetooth speaker is a game changer. So glad I decided to buy it.,Positive
+R1353,I am so happy with my mouse pad purchase. Works perfectly and looks great.,Positive
+R1354,Amazing quality phone charger for such a reasonable price. Will buy again.,Positive
+R1355,Perfect bluetooth speaker! It does everything I wanted and more.,Positive
+R1356,This yoga mat is fantastic. Best purchase I have made all year.,Positive
+R1357,I have mixed feelings about this smartphone case. It has some good features but also some drawbacks.,Neutral
+R1358,Terrible meal prep containers! It broke within the first week of use.,Negative
+R1359,I cannot believe how good this running shoes is. Totally worth every penny.,Positive
+R1360,The mouse pad is defective. Tried to get a replacement but no luck.,Negative
+R1361,I am thrilled with my bluetooth speaker. Shipping was fast and packaging was great.,Positive
+R1362,I am thrilled with my wireless headphones. Shipping was fast and packaging was great.,Positive
+R1363,This water bottle is a game changer. So glad I decided to buy it.,Positive
+R1364,Perfect laptop backpack! It does everything I wanted and more.,Positive
+R1365,Do not waste your money on this tablet stand. It is poorly made and does not work well.,Negative
+R1366,The meal prep containers does what it is supposed to do. That is about it.,Neutral
+R1367,"Excellent tablet stand! Easy to use, well designed, and durable.",Positive
+R1368,Awful running shoes with terrible build quality. I want my money back.,Negative
+R1369,Great running shoes for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1370,This portable fan is a piece of junk. Cheap materials and bad design.,Negative
+R1371,This tablet stand works like a charm. Easy setup and intuitive controls.,Positive
+R1372,"Excellent mouse pad! Easy to use, well designed, and durable.",Positive
+R1373,The portable fan is okay. It does the job but nothing special.,Neutral
+R1374,Worst meal prep containers I have ever purchased. Totally useless product.,Negative
+R1375,My water bottle is functional. It could use some improvements in design though.,Neutral
+R1376,I am thrilled with my meal prep containers. Shipping was fast and packaging was great.,Positive
+R1377,The mouse pad is defective. Tried to get a replacement but no luck.,Negative
+R1378,Best running shoes I have ever owned. The quality is top notch.,Positive
+R1379,Terrible desk lamp! It broke within the first week of use.,Negative
+R1380,Five stars! This screen protector is amazing and arrived quickly.,Positive
+R1381,The bluetooth speaker is horrible. Customer service was no help either.,Negative
+R1382,Very satisfied with this meal prep containers. Exactly what I needed and more.,Positive
+R1383,Not bad but not great either. The desk lamp serves its purpose.,Neutral
+R1384,This is the worst portable fan ever. Save your money and buy something else.,Negative
+R1385,The bluetooth speaker is horrible. Customer service was no help either.,Negative
+R1386,I hate this bluetooth speaker. It is nothing like the description said it would be.,Negative
+R1387,Not bad but not great either. The laptop backpack serves its purpose.,Neutral
+R1388,Best screen protector I have ever owned. The quality is top notch.,Positive
+R1389,This smartphone case is fantastic. Best purchase I have made all year.,Positive
+R1390,Stay away from this smartphone case! It is overpriced and underperforms.,Negative
+R1391,This phone charger is a game changer. So glad I decided to buy it.,Positive
+R1392,The running shoes is okay. It does the job but nothing special.,Neutral
+R1393,The water bottle does what it is supposed to do. That is about it.,Neutral
+R1394,I have mixed feelings about this bluetooth speaker. It has some good features but also some drawbacks!!,Neutral
+R1395,Five stars! This coffee maker is amazing and arrived quickly.,Positive
+R1396,Completely dissatisfied with this coffee maker. Do not recommend it to anyone.,Negative
+R1397,Terrible laptop backpack! It broke within the first week of use.,Negative
+R1398,I hate this tablet stand. It is nothing like the description said it would be.,Negative
+R1399,My wireless headphones is functional. It could use some improvements in design though.,Neutral
+R1400,Perfect water bottle! It does everything I wanted and more.,Positive
+R1401,This smartphone case is a game changer. So glad I decided to buy it.,Positive
+R1402,I regret buying this phone charger. It stopped working after just a month.,Negative
+R1403,This mouse pad is a piece of junk. Cheap materials and bad design!!,Negative
+R1404,Terrible yoga mat! It broke within the first week of use.,Negative
+R1405,My mouse pad is functional. It could use some improvements in design though.,Neutral
+R1406,This wireless headphones is fantastic. Best purchase I have made all year.,Positive
+R1407,I regret buying this desk lamp. It stopped working after just a month.,Negative
+R1408,This water bottle is a game changer. So glad I decided to buy it.,Positive
+R1409,Best tablet stand I have ever owned. The quality is top notch.,Positive
+R1410,Awful smartphone case with terrible build quality. I want my money back.,Negative
+R1411,This running shoes works like a charm. Easy setup and intuitive controls.,Positive
+R1412,Five stars! This smartphone case is amazing and arrived quickly.,Positive
+R1413,I regret buying this mouse pad. It stopped working after just a month.,Negative
+R1414,What a waste of money this laptop backpack turned out to be. Very poor quality!!,Negative
+R1415,Best water bottle I have ever owned. The quality is top notch.,Positive
+R1416,Not bad but not great either. The smartphone case serves its purpose.,Neutral
+R1417,Best portable fan I have ever owned. The quality is top notch.,Positive
+R1418,Five stars! This yoga mat is amazing and arrived quickly.,Positive
+R1419,Amazing quality yoga mat for such a reasonable price. Will buy again.,Positive
+R1420,The meal prep containers does what it is supposed to do. That is about it.,Neutral
+R1421,This is the worst screen protector ever. Save your money and buy something else.,Negative
+R1422,The laptop backpack is okay. It does the job but nothing special.,Neutral
+R1423,Best smartphone case I have ever owned. The quality is top notch.,Positive
+R1424,The running shoes is horrible. Customer service was no help either.,Negative
+R1425,This desk lamp is a piece of junk. Cheap materials and bad design.,Negative
+R1426,Awful coffee maker with terrible build quality. I want my money back.,Negative
+R1427,I am thrilled with my yoga mat. Shipping was fast and packaging was great.,Positive
+R1428,Pretty standard running shoes. Nothing really stands out about it.,Neutral
+R1429,I have mixed feelings about this mouse pad. It has some good features but also some drawbacks.,Neutral
+R1430,Perfect screen protector! It does everything I wanted and more.,Positive
+R1431,Perfect wireless headphones! It does everything I wanted and more.,Positive
+R1432,This screen protector is alright. I have seen better but I have also seen worse.,Neutral
+R1433,I cannot believe how good this mouse pad is. Totally worth every penny!!,Positive
+R1434,Five stars! This phone charger is amazing and arrived quickly.,Positive
+R1435,Very satisfied with this phone charger. Exactly what I needed and more.,Positive
+R1436,The portable fan arrived on time and was as described. Nothing more to say really.,Neutral
+R1437,My wireless headphones is wonderful. The quality is outstanding for the price point.,Positive
+R1438,Do not waste your money on this mouse pad. It is poorly made and does not work well.,Negative
+R1439,This water bottle is fantastic. Best purchase I have made all year.,Positive
+R1440,This meal prep containers does not work properly at all. Extremely frustrating experience!!,Negative
+R1441,This running shoes is fantastic. Best purchase I have made all year.,Positive
+R1442,This tablet stand works fine. It is not the best but it gets the job done.,Neutral
+R1443,The smartphone case arrived on time and was as described. Nothing more to say really.,Neutral
+R1444,Decent screen protector for the money. Not great but not terrible either!!,Neutral
+R1445,This tablet stand is alright. I have seen better but I have also seen worse.,Neutral
+R1446,What a waste of money this tablet stand turned out to be. Very poor quality.,Negative
+R1447,Do not waste your money on this yoga mat. It is poorly made and does not work well.,Negative
+R1448,Perfect phone charger! It does everything I wanted and more.,Positive
+R1449,Not bad but not great either. The wireless headphones serves its purpose.,Neutral
+R1450,Absolutely love this smartphone case! It exceeded all my expectations!!,Positive
+R1451,My mouse pad is functional. It could use some improvements in design though.,Neutral
+R1452,The screen protector is okay. It does the job but nothing special.,Neutral
+R1453,Absolutely love this coffee maker! It exceeded all my expectations.,Positive
+R1454,Great screen protector for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1455,This coffee maker is alright. I have seen better but I have also seen worse.,Neutral
+R1456,This smartphone case works fine. It is not the best but it gets the job done.,Neutral
+R1457,Stay away from this water bottle! It is overpriced and underperforms.,Negative
+R1458,Very satisfied with this yoga mat. Exactly what I needed and more.,Positive
+R1459,I am thrilled with my meal prep containers. Shipping was fast and packaging was great.,Positive
+R1460,Five stars! This smartphone case is amazing and arrived quickly.,Positive
+R1461,The tablet stand is okay. It does the job but nothing special.,Neutral
+R1462,Very disappointed with this wireless headphones. The quality is just not there.,Negative
+R1463,Do not waste your money on this running shoes. It is poorly made and does not work well.,Negative
+R1464,This desk lamp works like a charm. Easy setup and intuitive controls.,Positive
+R1465,I regret buying this yoga mat. It stopped working after just a month.,Negative
+R1466,Completely dissatisfied with this portable fan. Do not recommend it to anyone!!,Negative
+R1467,I am thrilled with my screen protector. Shipping was fast and packaging was great.,Positive
+R1468,This smartphone case works like a charm. Easy setup and intuitive controls.,Positive
+R1469,Not bad but not great either. The smartphone case serves its purpose.,Neutral
+R1470,Not bad but not great either. The portable fan serves its purpose.,Neutral
+R1471,This bluetooth speaker does not work properly at all. Extremely frustrating experience.,Negative
+R1472,It is an okay yoga mat. I might look for something better in the future.,Neutral
+R1473,The yoga mat arrived on time and was as described. Nothing more to say really!!,Neutral
+R1474,Decent tablet stand for the money. Not great but not terrible either.,Neutral
+R1475,I regret buying this bluetooth speaker. It stopped working after just a month.,Negative
+R1476,Very satisfied with this bluetooth speaker. Exactly what I needed and more.,Positive
+R1477,My smartphone case is wonderful. The quality is outstanding for the price point!!,Positive
+R1478,Very satisfied with this coffee maker. Exactly what I needed and more.,Positive
+R1479,My laptop backpack is functional. It could use some improvements in design though.,Neutral
+R1480,It is an okay tablet stand. I might look for something better in the future.,Neutral
+R1481,It is an okay water bottle. I might look for something better in the future.,Neutral
+R1482,Worst portable fan I have ever purchased. Totally useless product.,Negative
+R1483,The desk lamp does what it is supposed to do. That is about it.,Neutral
+R1484,I hate this mouse pad. It is nothing like the description said it would be.,Negative
+R1485,Very disappointed with this phone charger. The quality is just not there.,Negative
+R1486,This running shoes is fantastic. Best purchase I have made all year.,Positive
+R1487,I am thrilled with my water bottle. Shipping was fast and packaging was great.,Positive
+R1488,Completely dissatisfied with this desk lamp. Do not recommend it to anyone.,Negative
+R1489,This screen protector is a game changer. So glad I decided to buy it.,Positive
+R1490,I am thrilled with my wireless headphones. Shipping was fast and packaging was great.,Positive
+R1491,It is an okay coffee maker. I might look for something better in the future.,Neutral
+R1492,Perfect laptop backpack! It does everything I wanted and more.,Positive
+R1493,Amazing quality portable fan for such a reasonable price. Will buy again.,Positive
+R1494,I cannot believe how good this screen protector is. Totally worth every penny.,Positive
+R1495,My smartphone case is functional. It could use some improvements in design though.,Neutral
+R1496,This bluetooth speaker does not work properly at all. Extremely frustrating experience.,Negative
+R1497,The phone charger is okay. It does the job but nothing special.,Neutral
+R1498,Very disappointed with this yoga mat. The quality is just not there.,Negative
+R1499,The laptop backpack is horrible. Customer service was no help either.,Negative
+R1500,Best yoga mat I have ever owned. The quality is top notch.,Positive
+R1501,Average phone charger performs as expected. No complaints but no surprises.,Neutral
+R1502,Very satisfied with this laptop backpack. Exactly what I needed and more.,Positive
+R1503,I cannot believe how good this mouse pad is. Totally worth every penny.,Positive
+R1504,I have mixed feelings about this desk lamp. It has some good features but also some drawbacks.,Neutral
+R1505,Pretty standard bluetooth speaker. Nothing really stands out about it.,Neutral
+R1506,Very disappointed with this bluetooth speaker. The quality is just not there.,Negative
+R1507,Amazing quality tablet stand for such a reasonable price. Will buy again.,Positive
+R1508,This is the worst running shoes ever. Save your money and buy something else.,Negative
+R1509,This phone charger does not work properly at all. Extremely frustrating experience.,Negative
+R1510,I cannot believe how good this bluetooth speaker is. Totally worth every penny.,Positive
+R1511,Best mouse pad I have ever owned. The quality is top notch.,Positive
+R1512,The running shoes is defective. Tried to get a replacement but no luck.,Negative
+R1513,My wireless headphones is functional. It could use some improvements in design though.,Neutral
+R1514,"Excellent water bottle! Easy to use, well designed, and durable.",Positive
+R1515,Pretty standard meal prep containers. Nothing really stands out about it.,Neutral
+R1516,I am thrilled with my portable fan. Shipping was fast and packaging was great.,Positive
+R1517,The phone charger is defective. Tried to get a replacement but no luck.,Negative
+R1518,Best desk lamp I have ever owned. The quality is top notch.,Positive
+R1519,Completely dissatisfied with this desk lamp. Do not recommend it to anyone.,Negative
+R1520,Absolutely love this water bottle! It exceeded all my expectations.,Positive
+R1521,"Excellent wireless headphones! Easy to use, well designed, and durable.",Positive
+R1522,Best water bottle I have ever owned. The quality is top notch.,Positive
+R1523,Five stars! This portable fan is amazing and arrived quickly!!,Positive
+R1524,This screen protector is a game changer. So glad I decided to buy it.,Positive
+R1525,This water bottle works fine. It is not the best but it gets the job done.,Neutral
+R1526,The water bottle is okay. It does the job but nothing special.,Neutral
+R1527,This meal prep containers is a game changer. So glad I decided to buy it.,Positive
+R1528,Decent phone charger for the money. Not great but not terrible either.,Neutral
+R1529,My bluetooth speaker is functional. It could use some improvements in design though.,Neutral
+R1530,Best wireless headphones I have ever owned. The quality is top notch.,Positive
+R1531,I have mixed feelings about this meal prep containers. It has some good features but also some drawbacks.,Neutral
+R1532,Five stars! This bluetooth speaker is amazing and arrived quickly.,Positive
+R1533,I am thrilled with my bluetooth speaker. Shipping was fast and packaging was great!!,Positive
+R1534,I am so happy with my smartphone case purchase. Works perfectly and looks great.,Positive
+R1535,Not bad but not great either. The mouse pad serves its purpose.,Neutral
+R1536,This running shoes is a piece of junk. Cheap materials and bad design.,Negative
+R1537,Great bluetooth speaker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1538,The wireless headphones does what it is supposed to do. That is about it.,Neutral
+R1539,I have mixed feelings about this wireless headphones. It has some good features but also some drawbacks.,Neutral
+R1540,Pretty standard tablet stand. Nothing really stands out about it.,Neutral
+R1541,It is an okay laptop backpack. I might look for something better in the future.,Neutral
+R1542,I am so happy with my coffee maker purchase. Works perfectly and looks great.,Positive
+R1543,Amazing quality coffee maker for such a reasonable price. Will buy again.,Positive
+R1544,Very satisfied with this yoga mat. Exactly what I needed and more!!,Positive
+R1545,Very satisfied with this screen protector. Exactly what I needed and more.,Positive
+R1546,My running shoes is functional. It could use some improvements in design though.,Neutral
+R1547,Five stars! This yoga mat is amazing and arrived quickly.,Positive
+R1548,This desk lamp is a game changer. So glad I decided to buy it.,Positive
+R1549,Great meal prep containers for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1550,Very satisfied with this laptop backpack. Exactly what I needed and more.,Positive
+R1551,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R1552,Decent mouse pad for the money. Not great but not terrible either.,Neutral
+R1553,"Excellent desk lamp! Easy to use, well designed, and durable.",Positive
+R1554,This coffee maker is a piece of junk. Cheap materials and bad design.,Negative
+R1555,The water bottle does what it is supposed to do. That is about it.,Neutral
+R1556,Completely dissatisfied with this water bottle. Do not recommend it to anyone.,Negative
+R1557,I am so happy with my water bottle purchase. Works perfectly and looks great.,Positive
+R1558,This desk lamp is a game changer. So glad I decided to buy it.,Positive
+R1559,Pretty standard smartphone case. Nothing really stands out about it.,Neutral
+R1560,Decent desk lamp for the money. Not great but not terrible either.,Neutral
+R1561,Awful coffee maker with terrible build quality. I want my money back.,Negative
+R1562,I am thrilled with my portable fan. Shipping was fast and packaging was great.,Positive
+R1563,This smartphone case works fine. It is not the best but it gets the job done.,Neutral
+R1564,Absolutely love this yoga mat! It exceeded all my expectations.,Positive
+R1565,I hate this bluetooth speaker. It is nothing like the description said it would be.,Negative
+R1566,I am so happy with my running shoes purchase. Works perfectly and looks great.,Positive
+R1567,Awful phone charger with terrible build quality. I want my money back.,Negative
+R1568,Amazing quality smartphone case for such a reasonable price. Will buy again.,Positive
+R1569,This wireless headphones is fantastic. Best purchase I have made all year.,Positive
+R1570,Absolutely love this tablet stand! It exceeded all my expectations.,Positive
+R1571,Absolutely love this desk lamp! It exceeded all my expectations.,Positive
+R1572,Do not waste your money on this coffee maker. It is poorly made and does not work well.,Negative
+R1573,Terrible water bottle! It broke within the first week of use.,Negative
+R1574,"Excellent tablet stand! Easy to use, well designed, and durable.",Positive
+R1575,I am thrilled with my portable fan. Shipping was fast and packaging was great.,Positive
+R1576,I cannot believe how good this wireless headphones is. Totally worth every penny.,Positive
+R1577,This tablet stand is fantastic. Best purchase I have made all year.,Positive
+R1578,My yoga mat is wonderful. The quality is outstanding for the price point.,Positive
+R1579,Completely dissatisfied with this desk lamp. Do not recommend it to anyone.,Negative
+R1580,This yoga mat is fantastic. Best purchase I have made all year.,Positive
+R1581,Perfect coffee maker! It does everything I wanted and more.,Positive
+R1582,The running shoes does what it is supposed to do. That is about it.,Neutral
+R1583,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R1584,The smartphone case is defective. Tried to get a replacement but no luck.,Negative
+R1585,Absolutely love this bluetooth speaker! It exceeded all my expectations.,Positive
+R1586,This water bottle is a piece of junk. Cheap materials and bad design!!,Negative
+R1587,Perfect phone charger! It does everything I wanted and more.,Positive
+R1588,I am thrilled with my mouse pad. Shipping was fast and packaging was great.,Positive
+R1589,The wireless headphones arrived on time and was as described. Nothing more to say really.,Neutral
+R1590,This running shoes is fantastic. Best purchase I have made all year.,Positive
+R1591,"Excellent phone charger! Easy to use, well designed, and durable.",Positive
+R1592,I am so happy with my phone charger purchase. Works perfectly and looks great.,Positive
+R1593,Terrible smartphone case! It broke within the first week of use.,Negative
+R1594,"Excellent wireless headphones! Easy to use, well designed, and durable.",Positive
+R1595,Best laptop backpack I have ever owned. The quality is top notch!!,Positive
+R1596,The desk lamp is okay. It does the job but nothing special.,Neutral
+R1597,I hate this smartphone case. It is nothing like the description said it would be.,Negative
+R1598,This smartphone case does not work properly at all. Extremely frustrating experience.,Negative
+R1599,I am thrilled with my water bottle. Shipping was fast and packaging was great!!,Positive
+R1600,I cannot believe how good this laptop backpack is. Totally worth every penny.,Positive
+R1601,Perfect meal prep containers! It does everything I wanted and more.,Positive
+R1602,This is the worst desk lamp ever. Save your money and buy something else.,Negative
+R1603,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R1604,Decent yoga mat for the money. Not great but not terrible either.,Neutral
+R1605,Best bluetooth speaker I have ever owned. The quality is top notch.,Positive
+R1606,The laptop backpack is defective. Tried to get a replacement but no luck.,Negative
+R1607,This portable fan works like a charm. Easy setup and intuitive controls.,Positive
+R1608,The bluetooth speaker is okay. It does the job but nothing special.,Neutral
+R1609,I am so happy with my wireless headphones purchase. Works perfectly and looks great.,Positive
+R1610,The water bottle is defective. Tried to get a replacement but no luck.,Negative
+R1611,Not bad but not great either. The portable fan serves its purpose.,Neutral
+R1612,I regret buying this desk lamp. It stopped working after just a month.,Negative
+R1613,My bluetooth speaker is functional. It could use some improvements in design though.,Neutral
+R1614,"Excellent meal prep containers! Easy to use, well designed, and durable.",Positive
+R1615,Awful mouse pad with terrible build quality. I want my money back.,Negative
+R1616,Average phone charger performs as expected. No complaints but no surprises.,Neutral
+R1617,This smartphone case is a game changer. So glad I decided to buy it.,Positive
+R1618,Stay away from this phone charger! It is overpriced and underperforms.,Negative
+R1619,Average desk lamp performs as expected. No complaints but no surprises.,Neutral
+R1620,I have mixed feelings about this portable fan. It has some good features but also some drawbacks.,Neutral
+R1621,Not bad but not great either. The tablet stand serves its purpose.,Neutral
+R1622,The wireless headphones is okay. It does the job but nothing special.,Neutral
+R1623,I regret buying this running shoes. It stopped working after just a month.,Negative
+R1624,I hate this portable fan. It is nothing like the description said it would be!!,Negative
+R1625,Do not waste your money on this phone charger. It is poorly made and does not work well!!,Negative
+R1626,Very disappointed with this phone charger. The quality is just not there.,Negative
+R1627,This water bottle is a game changer. So glad I decided to buy it.,Positive
+R1628,Amazing quality desk lamp for such a reasonable price. Will buy again.,Positive
+R1629,Great yoga mat for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1630,The laptop backpack is horrible. Customer service was no help either!!,Negative
+R1631,Not bad but not great either. The water bottle serves its purpose.,Neutral
+R1632,This screen protector is a game changer. So glad I decided to buy it.,Positive
+R1633,"Excellent bluetooth speaker! Easy to use, well designed, and durable.",Positive
+R1634,Average coffee maker performs as expected. No complaints but no surprises!!,Neutral
+R1635,The water bottle is okay. It does the job but nothing special.,Neutral
+R1636,Not bad but not great either. The tablet stand serves its purpose.,Neutral
+R1637,Amazing quality laptop backpack for such a reasonable price. Will buy again.,Positive
+R1638,Completely dissatisfied with this portable fan. Do not recommend it to anyone.,Negative
+R1639,Very satisfied with this water bottle. Exactly what I needed and more.,Positive
+R1640,Very satisfied with this mouse pad. Exactly what I needed and more.,Positive
+R1641,"Excellent water bottle! Easy to use, well designed, and durable.",Positive
+R1642,The meal prep containers is horrible. Customer service was no help either.,Negative
+R1643,It is an okay yoga mat. I might look for something better in the future.,Neutral
+R1644,I have mixed feelings about this water bottle. It has some good features but also some drawbacks.,Neutral
+R1645,The running shoes is okay. It does the job but nothing special.,Neutral
+R1646,The phone charger is okay. It does the job but nothing special.,Neutral
+R1647,Awful portable fan with terrible build quality. I want my money back.,Negative
+R1648,Great tablet stand for the price. Highly recommend to anyone looking for a quality product!!,Positive
+R1649,I cannot believe how good this meal prep containers is. Totally worth every penny.,Positive
+R1650,Great coffee maker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1651,Perfect tablet stand! It does everything I wanted and more.,Positive
+R1652,This mouse pad is a game changer. So glad I decided to buy it!!,Positive
+R1653,"Excellent tablet stand! Easy to use, well designed, and durable.",Positive
+R1654,Do not waste your money on this running shoes. It is poorly made and does not work well.,Negative
+R1655,Best tablet stand I have ever owned. The quality is top notch.,Positive
+R1656,I cannot believe how good this smartphone case is. Totally worth every penny.,Positive
+R1657,Five stars! This wireless headphones is amazing and arrived quickly.,Positive
+R1658,Stay away from this water bottle! It is overpriced and underperforms.,Negative
+R1659,This desk lamp is fantastic. Best purchase I have made all year.,Positive
+R1660,The screen protector is okay. It does the job but nothing special.,Neutral
+R1661,Amazing quality yoga mat for such a reasonable price. Will buy again.,Positive
+R1662,Absolutely love this water bottle! It exceeded all my expectations.,Positive
+R1663,Best phone charger I have ever owned. The quality is top notch.,Positive
+R1664,Worst bluetooth speaker I have ever purchased. Totally useless product.,Negative
+R1665,What a waste of money this tablet stand turned out to be. Very poor quality.,Negative
+R1666,Great meal prep containers for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1667,Worst yoga mat I have ever purchased. Totally useless product.,Negative
+R1668,Five stars! This running shoes is amazing and arrived quickly.,Positive
+R1669,Stay away from this tablet stand! It is overpriced and underperforms.,Negative
+R1670,This meal prep containers is alright. I have seen better but I have also seen worse.,Neutral
+R1671,"Excellent coffee maker! Easy to use, well designed, and durable.",Positive
+R1672,Awful meal prep containers with terrible build quality. I want my money back.,Negative
+R1673,Not bad but not great either. The laptop backpack serves its purpose.,Neutral
+R1674,This coffee maker is fantastic. Best purchase I have made all year.,Positive
+R1675,"Excellent bluetooth speaker! Easy to use, well designed, and durable.",Positive
+R1676,The desk lamp is okay. It does the job but nothing special.,Neutral
+R1677,Amazing quality phone charger for such a reasonable price. Will buy again.,Positive
+R1678,Completely dissatisfied with this meal prep containers. Do not recommend it to anyone!!,Negative
+R1679,Awful mouse pad with terrible build quality. I want my money back.,Negative
+R1680,Worst desk lamp I have ever purchased. Totally useless product.,Negative
+R1681,Awful desk lamp with terrible build quality. I want my money back.,Negative
+R1682,Very satisfied with this meal prep containers. Exactly what I needed and more.,Positive
+R1683,My coffee maker is functional. It could use some improvements in design though.,Neutral
+R1684,This portable fan works fine. It is not the best but it gets the job done.,Neutral
+R1685,Awful coffee maker with terrible build quality. I want my money back.,Negative
+R1686,"Excellent coffee maker! Easy to use, well designed, and durable.",Positive
+R1687,Pretty standard bluetooth speaker. Nothing really stands out about it.,Neutral
+R1688,This bluetooth speaker does not work properly at all. Extremely frustrating experience.,Negative
+R1689,Do not waste your money on this portable fan. It is poorly made and does not work well.,Negative
+R1690,This yoga mat is a game changer. So glad I decided to buy it.,Positive
+R1691,This laptop backpack is alright. I have seen better but I have also seen worse.,Neutral
+R1692,I am so happy with my yoga mat purchase. Works perfectly and looks great.,Positive
+R1693,Stay away from this bluetooth speaker! It is overpriced and underperforms.,Negative
+R1694,The running shoes is defective. Tried to get a replacement but no luck.,Negative
+R1695,Amazing quality tablet stand for such a reasonable price. Will buy again!!,Positive
+R1696,Very satisfied with this meal prep containers. Exactly what I needed and more.,Positive
+R1697,Five stars! This meal prep containers is amazing and arrived quickly.,Positive
+R1698,My portable fan is functional. It could use some improvements in design though.,Neutral
+R1699,Not bad but not great either. The meal prep containers serves its purpose.,Neutral
+R1700,Amazing quality tablet stand for such a reasonable price. Will buy again.,Positive
+R1701,The coffee maker is okay. It does the job but nothing special.,Neutral
+R1702,The tablet stand arrived on time and was as described. Nothing more to say really.,Neutral
+R1703,This laptop backpack is a game changer. So glad I decided to buy it.,Positive
+R1704,I regret buying this portable fan. It stopped working after just a month.,Negative
+R1705,I hate this mouse pad. It is nothing like the description said it would be.,Negative
+R1706,The phone charger is horrible. Customer service was no help either.,Negative
+R1707,This water bottle is alright. I have seen better but I have also seen worse.,Neutral
+R1708,It is an okay yoga mat. I might look for something better in the future.,Neutral
+R1709,Worst running shoes I have ever purchased. Totally useless product.,Negative
+R1710,This tablet stand works like a charm. Easy setup and intuitive controls.,Positive
+R1711,"Excellent screen protector! Easy to use, well designed, and durable.",Positive
+R1712,Five stars! This tablet stand is amazing and arrived quickly.,Positive
+R1713,I cannot believe how good this screen protector is. Totally worth every penny.,Positive
+R1714,My mouse pad is functional. It could use some improvements in design though.,Neutral
+R1715,Not bad but not great either. The coffee maker serves its purpose.,Neutral
+R1716,Very disappointed with this yoga mat. The quality is just not there.,Negative
+R1717,This running shoes is fantastic. Best purchase I have made all year.,Positive
+R1718,I am so happy with my running shoes purchase. Works perfectly and looks great.,Positive
+R1719,Amazing quality portable fan for such a reasonable price. Will buy again.,Positive
+R1720,Very satisfied with this coffee maker. Exactly what I needed and more.,Positive
+R1721,My coffee maker is functional. It could use some improvements in design though.,Neutral
+R1722,Great tablet stand for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1723,The coffee maker does what it is supposed to do. That is about it.,Neutral
+R1724,Perfect desk lamp! It does everything I wanted and more.,Positive
+R1725,Amazing quality tablet stand for such a reasonable price. Will buy again.,Positive
+R1726,This smartphone case works fine. It is not the best but it gets the job done.,Neutral
+R1727,What a waste of money this water bottle turned out to be. Very poor quality.,Negative
+R1728,This running shoes works like a charm. Easy setup and intuitive controls.,Positive
+R1729,This meal prep containers works like a charm. Easy setup and intuitive controls.,Positive
+R1730,This wireless headphones works fine. It is not the best but it gets the job done!!,Neutral
+R1731,Not bad but not great either. The yoga mat serves its purpose.,Neutral
+R1732,Absolutely love this bluetooth speaker! It exceeded all my expectations.,Positive
+R1733,My screen protector is wonderful. The quality is outstanding for the price point.,Positive
+R1734,Very disappointed with this screen protector. The quality is just not there.,Negative
+R1735,Awful bluetooth speaker with terrible build quality. I want my money back.,Negative
+R1736,This yoga mat does not work properly at all. Extremely frustrating experience.,Negative
+R1737,Five stars! This portable fan is amazing and arrived quickly.,Positive
+R1738,This yoga mat is fantastic. Best purchase I have made all year.,Positive
+R1739,Absolutely love this bluetooth speaker! It exceeded all my expectations.,Positive
+R1740,I cannot believe how good this tablet stand is. Totally worth every penny.,Positive
+R1741,Average smartphone case performs as expected. No complaints but no surprises.,Neutral
+R1742,I am thrilled with my laptop backpack. Shipping was fast and packaging was great.,Positive
+R1743,Very satisfied with this mouse pad. Exactly what I needed and more.,Positive
+R1744,I am thrilled with my meal prep containers. Shipping was fast and packaging was great.,Positive
+R1745,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R1746,My tablet stand is wonderful. The quality is outstanding for the price point.,Positive
+R1747,Not bad but not great either. The mouse pad serves its purpose.,Neutral
+R1748,The portable fan arrived on time and was as described. Nothing more to say really.,Neutral
+R1749,This meal prep containers does not work properly at all. Extremely frustrating experience.,Negative
+R1750,Best bluetooth speaker I have ever owned. The quality is top notch.,Positive
+R1751,Very disappointed with this bluetooth speaker. The quality is just not there.,Negative
+R1752,This smartphone case is fantastic. Best purchase I have made all year.,Positive
+R1753,Average wireless headphones performs as expected. No complaints but no surprises.,Neutral
+R1754,Absolutely love this water bottle! It exceeded all my expectations.,Positive
+R1755,This wireless headphones is fantastic. Best purchase I have made all year!!,Positive
+R1756,I am thrilled with my smartphone case. Shipping was fast and packaging was great.,Positive
+R1757,This screen protector is a piece of junk. Cheap materials and bad design.,Negative
+R1758,I have mixed feelings about this smartphone case. It has some good features but also some drawbacks.,Neutral
+R1759,My water bottle is wonderful. The quality is outstanding for the price point.,Positive
+R1760,What a waste of money this portable fan turned out to be. Very poor quality.,Negative
+R1761,Very disappointed with this smartphone case. The quality is just not there.,Negative
+R1762,Average phone charger performs as expected. No complaints but no surprises.,Neutral
+R1763,This bluetooth speaker is alright. I have seen better but I have also seen worse.,Neutral
+R1764,Amazing quality laptop backpack for such a reasonable price. Will buy again.,Positive
+R1765,Best yoga mat I have ever owned. The quality is top notch.,Positive
+R1766,I am so happy with my smartphone case purchase. Works perfectly and looks great.,Positive
+R1767,Great running shoes for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1768,The portable fan arrived on time and was as described. Nothing more to say really.,Neutral
+R1769,Awful tablet stand with terrible build quality. I want my money back.,Negative
+R1770,The meal prep containers is okay. It does the job but nothing special.,Neutral
+R1771,I hate this coffee maker. It is nothing like the description said it would be.,Negative
+R1772,"Excellent mouse pad! Easy to use, well designed, and durable.",Positive
+R1773,I cannot believe how good this mouse pad is. Totally worth every penny!!,Positive
+R1774,Not bad but not great either. The mouse pad serves its purpose.,Neutral
+R1775,Perfect wireless headphones! It does everything I wanted and more.,Positive
+R1776,This tablet stand is alright. I have seen better but I have also seen worse.,Neutral
+R1777,It is an okay bluetooth speaker. I might look for something better in the future.,Neutral
+R1778,Best smartphone case I have ever owned. The quality is top notch.,Positive
+R1779,Worst smartphone case I have ever purchased. Totally useless product.,Negative
+R1780,This water bottle does not work properly at all. Extremely frustrating experience.,Negative
+R1781,It is an okay mouse pad. I might look for something better in the future.,Neutral
+R1782,Awful meal prep containers with terrible build quality. I want my money back.,Negative
+R1783,I am thrilled with my portable fan. Shipping was fast and packaging was great.,Positive
+R1784,Perfect tablet stand! It does everything I wanted and more.,Positive
+R1785,This tablet stand is alright. I have seen better but I have also seen worse.,Neutral
+R1786,Very disappointed with this smartphone case. The quality is just not there.,Negative
+R1787,I have mixed feelings about this desk lamp. It has some good features but also some drawbacks!!,Neutral
+R1788,"Excellent smartphone case! Easy to use, well designed, and durable.",Positive
+R1789,This running shoes is a game changer. So glad I decided to buy it.,Positive
+R1790,This is the worst water bottle ever. Save your money and buy something else.,Negative
+R1791,Awful phone charger with terrible build quality. I want my money back.,Negative
+R1792,The coffee maker does what it is supposed to do. That is about it.,Neutral
+R1793,The phone charger arrived on time and was as described. Nothing more to say really.,Neutral
+R1794,Awful wireless headphones with terrible build quality. I want my money back.,Negative
+R1795,The smartphone case is horrible. Customer service was no help either.,Negative
+R1796,Not bad but not great either. The tablet stand serves its purpose.,Neutral
+R1797,This mouse pad works fine. It is not the best but it gets the job done.,Neutral
+R1798,I am so happy with my running shoes purchase. Works perfectly and looks great.,Positive
+R1799,This portable fan is fantastic. Best purchase I have made all year.,Positive
+R1800,Perfect phone charger! It does everything I wanted and more.,Positive
+R1801,This phone charger does not work properly at all. Extremely frustrating experience!!,Negative
+R1802,Not bad but not great either. The coffee maker serves its purpose.,Neutral
+R1803,My desk lamp is wonderful. The quality is outstanding for the price point.,Positive
+R1804,The wireless headphones is okay. It does the job but nothing special.,Neutral
+R1805,Worst yoga mat I have ever purchased. Totally useless product.,Negative
+R1806,Amazing quality portable fan for such a reasonable price. Will buy again.,Positive
+R1807,Worst running shoes I have ever purchased. Totally useless product.,Negative
+R1808,Perfect wireless headphones! It does everything I wanted and more.,Positive
+R1809,This coffee maker is a game changer. So glad I decided to buy it!!,Positive
+R1810,This coffee maker is fantastic. Best purchase I have made all year!!,Positive
+R1811,The yoga mat is okay. It does the job but nothing special.,Neutral
+R1812,Stay away from this water bottle! It is overpriced and underperforms.,Negative
+R1813,I hate this meal prep containers. It is nothing like the description said it would be.,Negative
+R1814,This is the worst running shoes ever. Save your money and buy something else.,Negative
+R1815,Not bad but not great either. The portable fan serves its purpose.,Neutral
+R1816,This tablet stand is alright. I have seen better but I have also seen worse.,Neutral
+R1817,My bluetooth speaker is functional. It could use some improvements in design though.,Neutral
+R1818,I hate this laptop backpack. It is nothing like the description said it would be.,Negative
+R1819,This smartphone case works like a charm. Easy setup and intuitive controls.,Positive
+R1820,The coffee maker is okay. It does the job but nothing special.,Neutral
+R1821,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R1822,My meal prep containers is functional. It could use some improvements in design though.,Neutral
+R1823,I am thrilled with my water bottle. Shipping was fast and packaging was great.,Positive
+R1824,Decent yoga mat for the money. Not great but not terrible either.,Neutral
+R1825,This portable fan works fine. It is not the best but it gets the job done.,Neutral
+R1826,I cannot believe how good this laptop backpack is. Totally worth every penny.,Positive
+R1827,Perfect tablet stand! It does everything I wanted and more.,Positive
+R1828,The wireless headphones does what it is supposed to do. That is about it.,Neutral
+R1829,Not bad but not great either. The water bottle serves its purpose.,Neutral
+R1830,I hate this meal prep containers. It is nothing like the description said it would be.,Negative
+R1831,My portable fan is functional. It could use some improvements in design though.,Neutral
+R1832,My screen protector is functional. It could use some improvements in design though!!,Neutral
+R1833,My laptop backpack is wonderful. The quality is outstanding for the price point.,Positive
+R1834,The meal prep containers does what it is supposed to do. That is about it.,Neutral
+R1835,Worst running shoes I have ever purchased. Totally useless product.,Negative
+R1836,This desk lamp is a piece of junk. Cheap materials and bad design.,Negative
+R1837,Perfect coffee maker! It does everything I wanted and more.,Positive
+R1838,The laptop backpack is horrible. Customer service was no help either.,Negative
+R1839,Great wireless headphones for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1840,Very satisfied with this tablet stand. Exactly what I needed and more.,Positive
+R1841,Absolutely love this screen protector! It exceeded all my expectations.,Positive
+R1842,I regret buying this wireless headphones. It stopped working after just a month.,Negative
+R1843,I am so happy with my phone charger purchase. Works perfectly and looks great!!,Positive
+R1844,"Excellent meal prep containers! Easy to use, well designed, and durable!!",Positive
+R1845,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R1846,The smartphone case is defective. Tried to get a replacement but no luck.,Negative
+R1847,Perfect desk lamp! It does everything I wanted and more.,Positive
+R1848,Pretty standard mouse pad. Nothing really stands out about it.,Neutral
+R1849,Pretty standard water bottle. Nothing really stands out about it.,Neutral
+R1850,This desk lamp does not work properly at all. Extremely frustrating experience.,Negative
+R1851,Five stars! This phone charger is amazing and arrived quickly.,Positive
+R1852,Decent water bottle for the money. Not great but not terrible either.,Neutral
+R1853,This is the worst mouse pad ever. Save your money and buy something else.,Negative
+R1854,Great meal prep containers for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1855,I have mixed feelings about this smartphone case. It has some good features but also some drawbacks.,Neutral
+R1856,I regret buying this running shoes. It stopped working after just a month!!,Negative
+R1857,My phone charger is wonderful. The quality is outstanding for the price point.,Positive
+R1858,The phone charger is horrible. Customer service was no help either.,Negative
+R1859,The coffee maker is defective. Tried to get a replacement but no luck.,Negative
+R1860,Best tablet stand I have ever owned. The quality is top notch.,Positive
+R1861,My desk lamp is functional. It could use some improvements in design though.,Neutral
+R1862,Pretty standard wireless headphones. Nothing really stands out about it.,Neutral
+R1863,Stay away from this coffee maker! It is overpriced and underperforms.,Negative
+R1864,My meal prep containers is wonderful. The quality is outstanding for the price point.,Positive
+R1865,Average phone charger performs as expected. No complaints but no surprises.,Neutral
+R1866,I cannot believe how good this screen protector is. Totally worth every penny.,Positive
+R1867,Decent coffee maker for the money. Not great but not terrible either.,Neutral
+R1868,Great coffee maker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1869,The tablet stand does what it is supposed to do. That is about it.,Neutral
+R1870,I cannot believe how good this desk lamp is. Totally worth every penny.,Positive
+R1871,Not bad but not great either. The smartphone case serves its purpose.,Neutral
+R1872,My mouse pad is wonderful. The quality is outstanding for the price point.,Positive
+R1873,Decent mouse pad for the money. Not great but not terrible either.,Neutral
+R1874,Very disappointed with this phone charger. The quality is just not there.,Negative
+R1875,Very satisfied with this mouse pad. Exactly what I needed and more.,Positive
+R1876,I am thrilled with my wireless headphones. Shipping was fast and packaging was great.,Positive
+R1877,The tablet stand does what it is supposed to do. That is about it.,Neutral
+R1878,Worst coffee maker I have ever purchased. Totally useless product.,Negative
+R1879,Very satisfied with this laptop backpack. Exactly what I needed and more.,Positive
+R1880,Awful desk lamp with terrible build quality. I want my money back.,Negative
+R1881,The portable fan arrived on time and was as described. Nothing more to say really.,Neutral
+R1882,This bluetooth speaker works fine. It is not the best but it gets the job done.,Neutral
+R1883,This yoga mat works fine. It is not the best but it gets the job done.,Neutral
+R1884,It is an okay bluetooth speaker. I might look for something better in the future.,Neutral
+R1885,My screen protector is functional. It could use some improvements in design though.,Neutral
+R1886,Very satisfied with this screen protector. Exactly what I needed and more.,Positive
+R1887,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R1888,This meal prep containers does not work properly at all. Extremely frustrating experience.,Negative
+R1889,This is the worst running shoes ever. Save your money and buy something else.,Negative
+R1890,I have mixed feelings about this yoga mat. It has some good features but also some drawbacks.,Neutral
+R1891,Very satisfied with this meal prep containers. Exactly what I needed and more.,Positive
+R1892,This tablet stand works like a charm. Easy setup and intuitive controls.,Positive
+R1893,This meal prep containers is a piece of junk. Cheap materials and bad design.,Negative
+R1894,I regret buying this portable fan. It stopped working after just a month.,Negative
+R1895,The bluetooth speaker is horrible. Customer service was no help either.,Negative
+R1896,This mouse pad works fine. It is not the best but it gets the job done.,Neutral
+R1897,I cannot believe how good this bluetooth speaker is. Totally worth every penny!!,Positive
+R1898,This coffee maker is a piece of junk. Cheap materials and bad design.,Negative
+R1899,This yoga mat is a game changer. So glad I decided to buy it.,Positive
+R1900,Not bad but not great either. The wireless headphones serves its purpose.,Neutral
+R1901,Completely dissatisfied with this running shoes. Do not recommend it to anyone.,Negative
+R1902,What a waste of money this running shoes turned out to be. Very poor quality!!,Negative
+R1903,The phone charger is okay. It does the job but nothing special.,Neutral
+R1904,Worst screen protector I have ever purchased. Totally useless product.,Negative
+R1905,This is the worst portable fan ever. Save your money and buy something else.,Negative
+R1906,This wireless headphones works fine. It is not the best but it gets the job done.,Neutral
+R1907,The running shoes does what it is supposed to do. That is about it.,Neutral
+R1908,Terrible phone charger! It broke within the first week of use.,Negative
+R1909,"Excellent phone charger! Easy to use, well designed, and durable.",Positive
+R1910,This bluetooth speaker is fantastic. Best purchase I have made all year.,Positive
+R1911,This bluetooth speaker works fine. It is not the best but it gets the job done.,Neutral
+R1912,This tablet stand works like a charm. Easy setup and intuitive controls.,Positive
+R1913,The yoga mat is defective. Tried to get a replacement but no luck.,Negative
+R1914,This coffee maker is a game changer. So glad I decided to buy it.,Positive
+R1915,The phone charger arrived on time and was as described. Nothing more to say really.,Neutral
+R1916,"Excellent meal prep containers! Easy to use, well designed, and durable.",Positive
+R1917,Amazing quality mouse pad for such a reasonable price. Will buy again.,Positive
+R1918,Average wireless headphones performs as expected. No complaints but no surprises.,Neutral
+R1919,I regret buying this tablet stand. It stopped working after just a month.,Negative
+R1920,Not bad but not great either. The smartphone case serves its purpose.,Neutral
+R1921,Not bad but not great either. The phone charger serves its purpose.,Neutral
+R1922,I have mixed feelings about this meal prep containers. It has some good features but also some drawbacks.,Neutral
+R1923,I have mixed feelings about this coffee maker. It has some good features but also some drawbacks.,Neutral
+R1924,I regret buying this mouse pad. It stopped working after just a month.,Negative
+R1925,This laptop backpack is a game changer. So glad I decided to buy it!!,Positive
+R1926,This portable fan is a game changer. So glad I decided to buy it.,Positive
+R1927,Awful laptop backpack with terrible build quality. I want my money back.,Negative
+R1928,Absolutely love this yoga mat! It exceeded all my expectations.,Positive
+R1929,I cannot believe how good this smartphone case is. Totally worth every penny.,Positive
+R1930,The smartphone case arrived on time and was as described. Nothing more to say really.,Neutral
+R1931,Pretty standard mouse pad. Nothing really stands out about it.,Neutral
+R1932,This is the worst coffee maker ever. Save your money and buy something else.,Negative
+R1933,The wireless headphones does what it is supposed to do. That is about it.,Neutral
+R1934,Best meal prep containers I have ever owned. The quality is top notch.,Positive
+R1935,This bluetooth speaker is a piece of junk. Cheap materials and bad design.,Negative
+R1936,Worst coffee maker I have ever purchased. Totally useless product.,Negative
+R1937,This phone charger is a game changer. So glad I decided to buy it.,Positive
+R1938,Great bluetooth speaker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R1939,Absolutely love this smartphone case! It exceeded all my expectations.,Positive
+R1940,I cannot believe how good this portable fan is. Totally worth every penny.,Positive
+R1941,I am so happy with my desk lamp purchase. Works perfectly and looks great.,Positive
+R1942,Awful meal prep containers with terrible build quality. I want my money back.,Negative
+R1943,I am so happy with my water bottle purchase. Works perfectly and looks great.,Positive
+R1944,Stay away from this yoga mat! It is overpriced and underperforms.,Negative
+R1945,Not bad but not great either. The running shoes serves its purpose.,Neutral
+R1946,Awful smartphone case with terrible build quality. I want my money back.,Negative
+R1947,The bluetooth speaker is horrible. Customer service was no help either.,Negative
+R1948,The phone charger arrived on time and was as described. Nothing more to say really.,Neutral
+R1949,Perfect desk lamp! It does everything I wanted and more.,Positive
+R1950,Perfect phone charger! It does everything I wanted and more.,Positive
+R1951,I cannot believe how good this tablet stand is. Totally worth every penny.,Positive
+R1952,I am so happy with my bluetooth speaker purchase. Works perfectly and looks great.,Positive
+R1953,Very satisfied with this laptop backpack. Exactly what I needed and more.,Positive
+R1954,Very disappointed with this phone charger. The quality is just not there.,Negative
+R1955,The phone charger is horrible. Customer service was no help either.,Negative
+R1956,My meal prep containers is functional. It could use some improvements in design though.,Neutral
+R1957,This water bottle is fantastic. Best purchase I have made all year!!,Positive
+R1958,Perfect meal prep containers! It does everything I wanted and more.,Positive
+R1959,The mouse pad is horrible. Customer service was no help either.,Negative
+R1960,My coffee maker is wonderful. The quality is outstanding for the price point.,Positive
+R1961,I hate this desk lamp. It is nothing like the description said it would be.,Negative
+R1962,This screen protector does not work properly at all. Extremely frustrating experience.,Negative
+R1963,Pretty standard smartphone case. Nothing really stands out about it.,Neutral
+R1964,This desk lamp is fantastic. Best purchase I have made all year!!,Positive
+R1965,This running shoes is fantastic. Best purchase I have made all year.,Positive
+R1966,I cannot believe how good this meal prep containers is. Totally worth every penny.,Positive
+R1967,What a waste of money this water bottle turned out to be. Very poor quality.,Negative
+R1968,My water bottle is wonderful. The quality is outstanding for the price point.,Positive
+R1969,I cannot believe how good this desk lamp is. Totally worth every penny.,Positive
+R1970,Terrible bluetooth speaker! It broke within the first week of use.,Negative
+R1971,Average meal prep containers performs as expected. No complaints but no surprises.,Neutral
+R1972,Do not waste your money on this desk lamp. It is poorly made and does not work well.,Negative
+R1973,This desk lamp does not work properly at all. Extremely frustrating experience.,Negative
+R1974,I am thrilled with my coffee maker. Shipping was fast and packaging was great.,Positive
+R1975,Decent wireless headphones for the money. Not great but not terrible either.,Neutral
+R1976,"Excellent meal prep containers! Easy to use, well designed, and durable.",Positive
+R1977,Not bad but not great either. The mouse pad serves its purpose.,Neutral
+R1978,This water bottle does not work properly at all. Extremely frustrating experience!!,Negative
+R1979,This wireless headphones is fantastic. Best purchase I have made all year.,Positive
+R1980,Not bad but not great either. The running shoes serves its purpose.,Neutral
+R1981,This phone charger works fine. It is not the best but it gets the job done.,Neutral
+R1982,Best water bottle I have ever owned. The quality is top notch.,Positive
+R1983,This mouse pad works like a charm. Easy setup and intuitive controls.,Positive
+R1984,Absolutely love this phone charger! It exceeded all my expectations.,Positive
+R1985,This smartphone case works fine. It is not the best but it gets the job done.,Neutral
+R1986,Very disappointed with this tablet stand. The quality is just not there.,Negative
+R1987,Not bad but not great either. The yoga mat serves its purpose!!,Neutral
+R1988,Best coffee maker I have ever owned. The quality is top notch.,Positive
+R1989,Stay away from this laptop backpack! It is overpriced and underperforms.,Negative
+R1990,The yoga mat is defective. Tried to get a replacement but no luck.,Negative
+R1991,"Excellent desk lamp! Easy to use, well designed, and durable.",Positive
+R1992,The running shoes is horrible. Customer service was no help either.,Negative
+R1993,My meal prep containers is wonderful. The quality is outstanding for the price point.,Positive
+R1994,I have mixed feelings about this mouse pad. It has some good features but also some drawbacks.,Neutral
+R1995,This meal prep containers is fantastic. Best purchase I have made all year.,Positive
+R1996,I have mixed feelings about this laptop backpack. It has some good features but also some drawbacks.,Neutral
+R1997,I hate this running shoes. It is nothing like the description said it would be.,Negative
+R1998,Terrible wireless headphones! It broke within the first week of use.,Negative
+R1999,I am so happy with my desk lamp purchase. Works perfectly and looks great.,Positive
+R2000,Absolutely love this phone charger! It exceeded all my expectations.,Positive
+R2001,This smartphone case is a game changer. So glad I decided to buy it.,Positive
+R2002,This tablet stand works fine. It is not the best but it gets the job done.,Neutral
+R2003,Absolutely love this portable fan! It exceeded all my expectations.,Positive
+R2004,Do not waste your money on this screen protector. It is poorly made and does not work well.,Negative
+R2005,The water bottle does what it is supposed to do. That is about it.,Neutral
+R2006,Not bad but not great either. The tablet stand serves its purpose.,Neutral
+R2007,My smartphone case is functional. It could use some improvements in design though.,Neutral
+R2008,This smartphone case works like a charm. Easy setup and intuitive controls.,Positive
+R2009,Completely dissatisfied with this bluetooth speaker. Do not recommend it to anyone.,Negative
+R2010,Pretty standard bluetooth speaker. Nothing really stands out about it.,Neutral
+R2011,I hate this phone charger. It is nothing like the description said it would be.,Negative
+R2012,Worst desk lamp I have ever purchased. Totally useless product.,Negative
+R2013,This mouse pad is a piece of junk. Cheap materials and bad design.,Negative
+R2014,Terrible portable fan! It broke within the first week of use.,Negative
+R2015,Five stars! This yoga mat is amazing and arrived quickly.,Positive
+R2016,Pretty standard yoga mat. Nothing really stands out about it.,Neutral
+R2017,Average desk lamp performs as expected. No complaints but no surprises.,Neutral
+R2018,Awful running shoes with terrible build quality. I want my money back.,Negative
+R2019,Amazing quality running shoes for such a reasonable price. Will buy again.,Positive
+R2020,This mouse pad is alright. I have seen better but I have also seen worse.,Neutral
+R2021,"Excellent wireless headphones! Easy to use, well designed, and durable.",Positive
+R2022,Very disappointed with this phone charger. The quality is just not there.,Negative
+R2023,I have mixed feelings about this portable fan. It has some good features but also some drawbacks.,Neutral
+R2024,The wireless headphones does what it is supposed to do. That is about it.,Neutral
+R2025,Absolutely love this water bottle! It exceeded all my expectations.,Positive
+R2026,Completely dissatisfied with this portable fan. Do not recommend it to anyone.,Negative
+R2027,It is an okay running shoes. I might look for something better in the future.,Neutral
+R2028,Five stars! This mouse pad is amazing and arrived quickly.,Positive
+R2029,Absolutely love this yoga mat! It exceeded all my expectations.,Positive
+R2030,I have mixed feelings about this water bottle. It has some good features but also some drawbacks.,Neutral
+R2031,The laptop backpack is defective. Tried to get a replacement but no luck.,Negative
+R2032,Not bad but not great either. The desk lamp serves its purpose.,Neutral
+R2033,Perfect portable fan! It does everything I wanted and more.,Positive
+R2034,Very disappointed with this coffee maker. The quality is just not there.,Negative
+R2035,Pretty standard meal prep containers. Nothing really stands out about it.,Neutral
+R2036,I regret buying this phone charger. It stopped working after just a month.,Negative
+R2037,Very satisfied with this coffee maker. Exactly what I needed and more.,Positive
+R2038,The wireless headphones is okay. It does the job but nothing special.,Neutral
+R2039,Great coffee maker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2040,Very satisfied with this running shoes. Exactly what I needed and more.,Positive
+R2041,Completely dissatisfied with this coffee maker. Do not recommend it to anyone.,Negative
+R2042,Completely dissatisfied with this portable fan. Do not recommend it to anyone.,Negative
+R2043,What a waste of money this water bottle turned out to be. Very poor quality.,Negative
+R2044,What a waste of money this portable fan turned out to be. Very poor quality.,Negative
+R2045,The screen protector does what it is supposed to do. That is about it.,Neutral
+R2046,The laptop backpack arrived on time and was as described. Nothing more to say really.,Neutral
+R2047,What a waste of money this mouse pad turned out to be. Very poor quality.,Negative
+R2048,Stay away from this running shoes! It is overpriced and underperforms.,Negative
+R2049,This phone charger is a game changer. So glad I decided to buy it.,Positive
+R2050,Very disappointed with this tablet stand. The quality is just not there.,Negative
+R2051,Very disappointed with this smartphone case. The quality is just not there.,Negative
+R2052,"Excellent laptop backpack! Easy to use, well designed, and durable.",Positive
+R2053,Very satisfied with this water bottle. Exactly what I needed and more.,Positive
+R2054,This coffee maker is a game changer. So glad I decided to buy it.,Positive
+R2055,What a waste of money this tablet stand turned out to be. Very poor quality.,Negative
+R2056,This running shoes works like a charm. Easy setup and intuitive controls.,Positive
+R2057,What a waste of money this tablet stand turned out to be. Very poor quality.,Negative
+R2058,This phone charger does not work properly at all. Extremely frustrating experience.,Negative
+R2059,I hate this tablet stand. It is nothing like the description said it would be.,Negative
+R2060,Decent yoga mat for the money. Not great but not terrible either.,Neutral
+R2061,My smartphone case is wonderful. The quality is outstanding for the price point!!,Positive
+R2062,Very disappointed with this bluetooth speaker. The quality is just not there.,Negative
+R2063,This coffee maker works fine. It is not the best but it gets the job done.,Neutral
+R2064,I am thrilled with my bluetooth speaker. Shipping was fast and packaging was great!!,Positive
+R2065,Five stars! This screen protector is amazing and arrived quickly.,Positive
+R2066,Best mouse pad I have ever owned. The quality is top notch.,Positive
+R2067,Very disappointed with this yoga mat. The quality is just not there.,Negative
+R2068,Five stars! This water bottle is amazing and arrived quickly.,Positive
+R2069,It is an okay portable fan. I might look for something better in the future.,Neutral
+R2070,I have mixed feelings about this water bottle. It has some good features but also some drawbacks.,Neutral
+R2071,Awful tablet stand with terrible build quality. I want my money back.,Negative
+R2072,Pretty standard mouse pad. Nothing really stands out about it.,Neutral
+R2073,This desk lamp is a game changer. So glad I decided to buy it.,Positive
+R2074,The running shoes arrived on time and was as described. Nothing more to say really.,Neutral
+R2075,Not bad but not great either. The screen protector serves its purpose.,Neutral
+R2076,I have mixed feelings about this mouse pad. It has some good features but also some drawbacks.,Neutral
+R2077,I am thrilled with my portable fan. Shipping was fast and packaging was great.,Positive
+R2078,The smartphone case does what it is supposed to do. That is about it.,Neutral
+R2079,Very satisfied with this water bottle. Exactly what I needed and more!!,Positive
+R2080,Very satisfied with this water bottle. Exactly what I needed and more.,Positive
+R2081,Absolutely love this screen protector! It exceeded all my expectations.,Positive
+R2082,Five stars! This wireless headphones is amazing and arrived quickly.,Positive
+R2083,This meal prep containers does not work properly at all. Extremely frustrating experience.,Negative
+R2084,Very satisfied with this portable fan. Exactly what I needed and more.,Positive
+R2085,I hate this wireless headphones. It is nothing like the description said it would be!!,Negative
+R2086,I am so happy with my running shoes purchase. Works perfectly and looks great.,Positive
+R2087,It is an okay yoga mat. I might look for something better in the future.,Neutral
+R2088,This smartphone case is alright. I have seen better but I have also seen worse.,Neutral
+R2089,Decent coffee maker for the money. Not great but not terrible either.,Neutral
+R2090,I am so happy with my desk lamp purchase. Works perfectly and looks great.,Positive
+R2091,Terrible meal prep containers! It broke within the first week of use.,Negative
+R2092,It is an okay bluetooth speaker. I might look for something better in the future.,Neutral
+R2093,Amazing quality mouse pad for such a reasonable price. Will buy again.,Positive
+R2094,My water bottle is functional. It could use some improvements in design though.,Neutral
+R2095,It is an okay phone charger. I might look for something better in the future.,Neutral
+R2096,Not bad but not great either. The yoga mat serves its purpose!!,Neutral
+R2097,It is an okay wireless headphones. I might look for something better in the future.,Neutral
+R2098,Five stars! This wireless headphones is amazing and arrived quickly.,Positive
+R2099,Average smartphone case performs as expected. No complaints but no surprises.,Neutral
+R2100,I regret buying this bluetooth speaker. It stopped working after just a month.,Negative
+R2101,The mouse pad does what it is supposed to do. That is about it.,Neutral
+R2102,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R2103,Stay away from this laptop backpack! It is overpriced and underperforms.,Negative
+R2104,Not bad but not great either. The phone charger serves its purpose.,Neutral
+R2105,This is the worst mouse pad ever. Save your money and buy something else.,Negative
+R2106,Terrible wireless headphones! It broke within the first week of use.,Negative
+R2107,Five stars! This water bottle is amazing and arrived quickly.,Positive
+R2108,This yoga mat works like a charm. Easy setup and intuitive controls.,Positive
+R2109,This phone charger works fine. It is not the best but it gets the job done.,Neutral
+R2110,Five stars! This smartphone case is amazing and arrived quickly.,Positive
+R2111,Pretty standard bluetooth speaker. Nothing really stands out about it.,Neutral
+R2112,Great running shoes for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2113,The yoga mat does what it is supposed to do. That is about it.,Neutral
+R2114,Pretty standard portable fan. Nothing really stands out about it.,Neutral
+R2115,My yoga mat is wonderful. The quality is outstanding for the price point.,Positive
+R2116,The yoga mat is okay. It does the job but nothing special.,Neutral
+R2117,Terrible screen protector! It broke within the first week of use!!,Negative
+R2118,Perfect wireless headphones! It does everything I wanted and more.,Positive
+R2119,Pretty standard meal prep containers. Nothing really stands out about it.,Neutral
+R2120,Awful smartphone case with terrible build quality. I want my money back.,Negative
+R2121,Absolutely love this phone charger! It exceeded all my expectations.,Positive
+R2122,The tablet stand does what it is supposed to do. That is about it.,Neutral
+R2123,The water bottle arrived on time and was as described. Nothing more to say really.,Neutral
+R2124,Best portable fan I have ever owned. The quality is top notch.,Positive
+R2125,The yoga mat is defective. Tried to get a replacement but no luck!!,Negative
+R2126,Absolutely love this meal prep containers! It exceeded all my expectations.,Positive
+R2127,My meal prep containers is wonderful. The quality is outstanding for the price point.,Positive
+R2128,I regret buying this desk lamp. It stopped working after just a month.,Negative
+R2129,My tablet stand is wonderful. The quality is outstanding for the price point.,Positive
+R2130,This is the worst meal prep containers ever. Save your money and buy something else.,Negative
+R2131,Completely dissatisfied with this mouse pad. Do not recommend it to anyone.,Negative
+R2132,Stay away from this water bottle! It is overpriced and underperforms.,Negative
+R2133,Best desk lamp I have ever owned. The quality is top notch.,Positive
+R2134,Do not waste your money on this water bottle. It is poorly made and does not work well.,Negative
+R2135,Five stars! This bluetooth speaker is amazing and arrived quickly.,Positive
+R2136,Very satisfied with this screen protector. Exactly what I needed and more.,Positive
+R2137,Completely dissatisfied with this mouse pad. Do not recommend it to anyone.,Negative
+R2138,I regret buying this water bottle. It stopped working after just a month.,Negative
+R2139,The wireless headphones is horrible. Customer service was no help either.,Negative
+R2140,This wireless headphones works like a charm. Easy setup and intuitive controls.,Positive
+R2141,This running shoes works fine. It is not the best but it gets the job done.,Neutral
+R2142,This yoga mat is alright. I have seen better but I have also seen worse.,Neutral
+R2143,Absolutely love this laptop backpack! It exceeded all my expectations.,Positive
+R2144,My tablet stand is wonderful. The quality is outstanding for the price point.,Positive
+R2145,This is the worst screen protector ever. Save your money and buy something else.,Negative
+R2146,Pretty standard laptop backpack. Nothing really stands out about it!!,Neutral
+R2147,This laptop backpack is a piece of junk. Cheap materials and bad design.,Negative
+R2148,Completely dissatisfied with this desk lamp. Do not recommend it to anyone.,Negative
+R2149,This wireless headphones is a game changer. So glad I decided to buy it.,Positive
+R2150,Five stars! This mouse pad is amazing and arrived quickly.,Positive
+R2151,This yoga mat works like a charm. Easy setup and intuitive controls.,Positive
+R2152,Very disappointed with this laptop backpack. The quality is just not there.,Negative
+R2153,This portable fan is fantastic. Best purchase I have made all year.,Positive
+R2154,The smartphone case is okay. It does the job but nothing special.,Neutral
+R2155,This screen protector works like a charm. Easy setup and intuitive controls.,Positive
+R2156,The wireless headphones is defective. Tried to get a replacement but no luck!!,Negative
+R2157,Completely dissatisfied with this water bottle. Do not recommend it to anyone.,Negative
+R2158,This wireless headphones is alright. I have seen better but I have also seen worse.,Neutral
+R2159,This is the worst smartphone case ever. Save your money and buy something else.,Negative
+R2160,The water bottle does what it is supposed to do. That is about it.,Neutral
+R2161,Awful tablet stand with terrible build quality. I want my money back.,Negative
+R2162,The smartphone case arrived on time and was as described. Nothing more to say really.,Neutral
+R2163,"Excellent wireless headphones! Easy to use, well designed, and durable.",Positive
+R2164,This smartphone case is fantastic. Best purchase I have made all year!!,Positive
+R2165,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R2166,Five stars! This phone charger is amazing and arrived quickly.,Positive
+R2167,"Excellent water bottle! Easy to use, well designed, and durable.",Positive
+R2168,The wireless headphones is okay. It does the job but nothing special.,Neutral
+R2169,The desk lamp arrived on time and was as described. Nothing more to say really.,Neutral
+R2170,I have mixed feelings about this portable fan. It has some good features but also some drawbacks.,Neutral
+R2171,My coffee maker is wonderful. The quality is outstanding for the price point.,Positive
+R2172,Perfect desk lamp! It does everything I wanted and more.,Positive
+R2173,This mouse pad is alright. I have seen better but I have also seen worse.,Neutral
+R2174,This laptop backpack is a piece of junk. Cheap materials and bad design.,Negative
+R2175,My smartphone case is wonderful. The quality is outstanding for the price point.,Positive
+R2176,I hate this meal prep containers. It is nothing like the description said it would be.,Negative
+R2177,This water bottle is a game changer. So glad I decided to buy it.,Positive
+R2178,The running shoes arrived on time and was as described. Nothing more to say really.,Neutral
+R2179,The portable fan is okay. It does the job but nothing special.,Neutral
+R2180,This desk lamp is a piece of junk. Cheap materials and bad design.,Negative
+R2181,Average laptop backpack performs as expected. No complaints but no surprises.,Neutral
+R2182,Worst mouse pad I have ever purchased. Totally useless product.,Negative
+R2183,Do not waste your money on this running shoes. It is poorly made and does not work well!!,Negative
+R2184,This wireless headphones is fantastic. Best purchase I have made all year.,Positive
+R2185,Five stars! This bluetooth speaker is amazing and arrived quickly.,Positive
+R2186,The screen protector arrived on time and was as described. Nothing more to say really.,Neutral
+R2187,I am so happy with my coffee maker purchase. Works perfectly and looks great.,Positive
+R2188,My bluetooth speaker is wonderful. The quality is outstanding for the price point.,Positive
+R2189,Absolutely love this laptop backpack! It exceeded all my expectations.,Positive
+R2190,Absolutely love this smartphone case! It exceeded all my expectations.,Positive
+R2191,I am thrilled with my desk lamp. Shipping was fast and packaging was great.,Positive
+R2192,This laptop backpack works fine. It is not the best but it gets the job done.,Neutral
+R2193,Perfect yoga mat! It does everything I wanted and more.,Positive
+R2194,My portable fan is functional. It could use some improvements in design though.,Neutral
+R2195,Very disappointed with this smartphone case. The quality is just not there.,Negative
+R2196,Average laptop backpack performs as expected. No complaints but no surprises.,Neutral
+R2197,This yoga mat is a game changer. So glad I decided to buy it.,Positive
+R2198,The screen protector is okay. It does the job but nothing special.,Neutral
+R2199,Stay away from this mouse pad! It is overpriced and underperforms.,Negative
+R2200,Absolutely love this laptop backpack! It exceeded all my expectations.,Positive
+R2201,This bluetooth speaker is alright. I have seen better but I have also seen worse.,Neutral
+R2202,What a waste of money this laptop backpack turned out to be. Very poor quality.,Negative
+R2203,Very disappointed with this water bottle. The quality is just not there.,Negative
+R2204,Perfect screen protector! It does everything I wanted and more.,Positive
+R2205,"Excellent phone charger! Easy to use, well designed, and durable.",Positive
+R2206,Best phone charger I have ever owned. The quality is top notch.,Positive
+R2207,Five stars! This tablet stand is amazing and arrived quickly.,Positive
+R2208,My portable fan is functional. It could use some improvements in design though.,Neutral
+R2209,This screen protector is a piece of junk. Cheap materials and bad design.,Negative
+R2210,I regret buying this laptop backpack. It stopped working after just a month.,Negative
+R2211,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R2212,Very disappointed with this portable fan. The quality is just not there.,Negative
+R2213,This laptop backpack is a game changer. So glad I decided to buy it.,Positive
+R2214,"Excellent running shoes! Easy to use, well designed, and durable.",Positive
+R2215,Not bad but not great either. The portable fan serves its purpose.,Neutral
+R2216,Not bad but not great either. The bluetooth speaker serves its purpose.,Neutral
+R2217,Amazing quality yoga mat for such a reasonable price. Will buy again.,Positive
+R2218,The phone charger does what it is supposed to do. That is about it.,Neutral
+R2219,This smartphone case is fantastic. Best purchase I have made all year.,Positive
+R2220,This yoga mat is a piece of junk. Cheap materials and bad design.,Negative
+R2221,This meal prep containers does not work properly at all. Extremely frustrating experience.,Negative
+R2222,Pretty standard laptop backpack. Nothing really stands out about it.,Neutral
+R2223,Awful mouse pad with terrible build quality. I want my money back.,Negative
+R2224,Absolutely love this coffee maker! It exceeded all my expectations.,Positive
+R2225,I am thrilled with my yoga mat. Shipping was fast and packaging was great.,Positive
+R2226,This mouse pad is a game changer. So glad I decided to buy it!!,Positive
+R2227,This desk lamp is alright. I have seen better but I have also seen worse.,Neutral
+R2228,I cannot believe how good this mouse pad is. Totally worth every penny.,Positive
+R2229,"Excellent laptop backpack! Easy to use, well designed, and durable.",Positive
+R2230,Awful phone charger with terrible build quality. I want my money back.,Negative
+R2231,Decent yoga mat for the money. Not great but not terrible either.,Neutral
+R2232,Pretty standard portable fan. Nothing really stands out about it.,Neutral
+R2233,Very satisfied with this mouse pad. Exactly what I needed and more.,Positive
+R2234,Five stars! This bluetooth speaker is amazing and arrived quickly!!,Positive
+R2235,The portable fan does what it is supposed to do. That is about it.,Neutral
+R2236,It is an okay running shoes. I might look for something better in the future.,Neutral
+R2237,What a waste of money this portable fan turned out to be. Very poor quality.,Negative
+R2238,My wireless headphones is functional. It could use some improvements in design though.,Neutral
+R2239,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R2240,My screen protector is functional. It could use some improvements in design though.,Neutral
+R2241,Average running shoes performs as expected. No complaints but no surprises!!,Neutral
+R2242,Average running shoes performs as expected. No complaints but no surprises.,Neutral
+R2243,The tablet stand does what it is supposed to do. That is about it.,Neutral
+R2244,The smartphone case does what it is supposed to do. That is about it!!,Neutral
+R2245,My meal prep containers is functional. It could use some improvements in design though.,Neutral
+R2246,It is an okay smartphone case. I might look for something better in the future.,Neutral
+R2247,Stay away from this desk lamp! It is overpriced and underperforms.,Negative
+R2248,I have mixed feelings about this wireless headphones. It has some good features but also some drawbacks.,Neutral
+R2249,Do not waste your money on this running shoes. It is poorly made and does not work well.,Negative
+R2250,I hate this running shoes. It is nothing like the description said it would be.,Negative
+R2251,This screen protector works like a charm. Easy setup and intuitive controls.,Positive
+R2252,It is an okay coffee maker. I might look for something better in the future.,Neutral
+R2253,This bluetooth speaker is a game changer. So glad I decided to buy it.,Positive
+R2254,Very satisfied with this laptop backpack. Exactly what I needed and more.,Positive
+R2255,Terrible laptop backpack! It broke within the first week of use.,Negative
+R2256,I cannot believe how good this mouse pad is. Totally worth every penny.,Positive
+R2257,My yoga mat is functional. It could use some improvements in design though.,Neutral
+R2258,The water bottle is okay. It does the job but nothing special.,Neutral
+R2259,Not bad but not great either. The screen protector serves its purpose.,Neutral
+R2260,Five stars! This portable fan is amazing and arrived quickly.,Positive
+R2261,I have mixed feelings about this mouse pad. It has some good features but also some drawbacks.,Neutral
+R2262,Best water bottle I have ever owned. The quality is top notch.,Positive
+R2263,I am so happy with my desk lamp purchase. Works perfectly and looks great.,Positive
+R2264,Absolutely love this meal prep containers! It exceeded all my expectations.,Positive
+R2265,The coffee maker does what it is supposed to do. That is about it.,Neutral
+R2266,What a waste of money this smartphone case turned out to be. Very poor quality.,Negative
+R2267,"Excellent screen protector! Easy to use, well designed, and durable.",Positive
+R2268,The smartphone case arrived on time and was as described. Nothing more to say really.,Neutral
+R2269,The portable fan arrived on time and was as described. Nothing more to say really.,Neutral
+R2270,Stay away from this laptop backpack! It is overpriced and underperforms!!,Negative
+R2271,Completely dissatisfied with this meal prep containers. Do not recommend it to anyone.,Negative
+R2272,I cannot believe how good this meal prep containers is. Totally worth every penny.,Positive
+R2273,Five stars! This wireless headphones is amazing and arrived quickly.,Positive
+R2274,Pretty standard desk lamp. Nothing really stands out about it.,Neutral
+R2275,This smartphone case is alright. I have seen better but I have also seen worse.,Neutral
+R2276,Do not waste your money on this tablet stand. It is poorly made and does not work well.,Negative
+R2277,I have mixed feelings about this bluetooth speaker. It has some good features but also some drawbacks.,Neutral
+R2278,I regret buying this bluetooth speaker. It stopped working after just a month.,Negative
+R2279,Perfect smartphone case! It does everything I wanted and more.,Positive
+R2280,I hate this bluetooth speaker. It is nothing like the description said it would be.,Negative
+R2281,The wireless headphones does what it is supposed to do. That is about it.,Neutral
+R2282,This wireless headphones does not work properly at all. Extremely frustrating experience.,Negative
+R2283,Best desk lamp I have ever owned. The quality is top notch.,Positive
+R2284,Five stars! This meal prep containers is amazing and arrived quickly.,Positive
+R2285,I am thrilled with my wireless headphones. Shipping was fast and packaging was great.,Positive
+R2286,Worst laptop backpack I have ever purchased. Totally useless product.,Negative
+R2287,It is an okay wireless headphones. I might look for something better in the future.,Neutral
+R2288,Perfect laptop backpack! It does everything I wanted and more.,Positive
+R2289,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R2290,What a waste of money this bluetooth speaker turned out to be. Very poor quality.,Negative
+R2291,This smartphone case works like a charm. Easy setup and intuitive controls.,Positive
+R2292,This is the worst laptop backpack ever. Save your money and buy something else.,Negative
+R2293,This running shoes is fantastic. Best purchase I have made all year.,Positive
+R2294,I am so happy with my yoga mat purchase. Works perfectly and looks great.,Positive
+R2295,Average running shoes performs as expected. No complaints but no surprises!!,Neutral
+R2296,Five stars! This mouse pad is amazing and arrived quickly.,Positive
+R2297,Amazing quality smartphone case for such a reasonable price. Will buy again.,Positive
+R2298,"Excellent water bottle! Easy to use, well designed, and durable.",Positive
+R2299,My phone charger is functional. It could use some improvements in design though.,Neutral
+R2300,My water bottle is wonderful. The quality is outstanding for the price point.,Positive
+R2301,Pretty standard desk lamp. Nothing really stands out about it.,Neutral
+R2302,What a waste of money this screen protector turned out to be. Very poor quality.,Negative
+R2303,This tablet stand is fantastic. Best purchase I have made all year.,Positive
+R2304,"Excellent water bottle! Easy to use, well designed, and durable.",Positive
+R2305,Very satisfied with this laptop backpack. Exactly what I needed and more.,Positive
+R2306,The laptop backpack is okay. It does the job but nothing special.,Neutral
+R2307,Great coffee maker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2308,Very disappointed with this water bottle. The quality is just not there.,Negative
+R2309,I have mixed feelings about this laptop backpack. It has some good features but also some drawbacks.,Neutral
+R2310,Amazing quality laptop backpack for such a reasonable price. Will buy again.,Positive
+R2311,Best tablet stand I have ever owned. The quality is top notch.,Positive
+R2312,Perfect yoga mat! It does everything I wanted and more!!,Positive
+R2313,It is an okay portable fan. I might look for something better in the future.,Neutral
+R2314,Average wireless headphones performs as expected. No complaints but no surprises.,Neutral
+R2315,This laptop backpack is a piece of junk. Cheap materials and bad design.,Negative
+R2316,Great desk lamp for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2317,This laptop backpack is a game changer. So glad I decided to buy it.,Positive
+R2318,Not bad but not great either. The bluetooth speaker serves its purpose!!,Neutral
+R2319,Decent tablet stand for the money. Not great but not terrible either!!,Neutral
+R2320,Average bluetooth speaker performs as expected. No complaints but no surprises.,Neutral
+R2321,I am thrilled with my mouse pad. Shipping was fast and packaging was great.,Positive
+R2322,It is an okay smartphone case. I might look for something better in the future.,Neutral
+R2323,Average meal prep containers performs as expected. No complaints but no surprises.,Neutral
+R2324,This laptop backpack works fine. It is not the best but it gets the job done.,Neutral
+R2325,This desk lamp is a piece of junk. Cheap materials and bad design.,Negative
+R2326,My smartphone case is wonderful. The quality is outstanding for the price point.,Positive
+R2327,The tablet stand is horrible. Customer service was no help either.,Negative
+R2328,I am so happy with my portable fan purchase. Works perfectly and looks great.,Positive
+R2329,I am thrilled with my wireless headphones. Shipping was fast and packaging was great.,Positive
+R2330,The portable fan is defective. Tried to get a replacement but no luck.,Negative
+R2331,Stay away from this bluetooth speaker! It is overpriced and underperforms.,Negative
+R2332,This tablet stand works fine. It is not the best but it gets the job done.,Neutral
+R2333,I hate this water bottle. It is nothing like the description said it would be.,Negative
+R2334,I have mixed feelings about this laptop backpack. It has some good features but also some drawbacks!!,Neutral
+R2335,This mouse pad is alright. I have seen better but I have also seen worse.,Neutral
+R2336,It is an okay running shoes. I might look for something better in the future.,Neutral
+R2337,I cannot believe how good this yoga mat is. Totally worth every penny.,Positive
+R2338,Very disappointed with this water bottle. The quality is just not there!!,Negative
+R2339,Very disappointed with this screen protector. The quality is just not there.,Negative
+R2340,It is an okay laptop backpack. I might look for something better in the future.,Neutral
+R2341,What a waste of money this portable fan turned out to be. Very poor quality.,Negative
+R2342,Best desk lamp I have ever owned. The quality is top notch!!,Positive
+R2343,It is an okay running shoes. I might look for something better in the future.,Neutral
+R2344,Amazing quality wireless headphones for such a reasonable price. Will buy again.,Positive
+R2345,Absolutely love this desk lamp! It exceeded all my expectations.,Positive
+R2346,My coffee maker is functional. It could use some improvements in design though.,Neutral
+R2347,Great coffee maker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2348,Do not waste your money on this mouse pad. It is poorly made and does not work well.,Negative
+R2349,It is an okay meal prep containers. I might look for something better in the future.,Neutral
+R2350,Decent screen protector for the money. Not great but not terrible either.,Neutral
+R2351,I have mixed feelings about this running shoes. It has some good features but also some drawbacks.,Neutral
+R2352,This coffee maker is alright. I have seen better but I have also seen worse.,Neutral
+R2353,This running shoes is a game changer. So glad I decided to buy it.,Positive
+R2354,Pretty standard screen protector. Nothing really stands out about it.,Neutral
+R2355,I am thrilled with my water bottle. Shipping was fast and packaging was great.,Positive
+R2356,What a waste of money this coffee maker turned out to be. Very poor quality.,Negative
+R2357,Five stars! This meal prep containers is amazing and arrived quickly.,Positive
+R2358,Decent wireless headphones for the money. Not great but not terrible either.,Neutral
+R2359,Completely dissatisfied with this running shoes. Do not recommend it to anyone.,Negative
+R2360,My bluetooth speaker is wonderful. The quality is outstanding for the price point.,Positive
+R2361,I have mixed feelings about this tablet stand. It has some good features but also some drawbacks.,Neutral
+R2362,Average water bottle performs as expected. No complaints but no surprises!!,Neutral
+R2363,Average bluetooth speaker performs as expected. No complaints but no surprises.,Neutral
+R2364,Not bad but not great either. The running shoes serves its purpose.,Neutral
+R2365,Perfect mouse pad! It does everything I wanted and more.,Positive
+R2366,This running shoes is fantastic. Best purchase I have made all year.,Positive
+R2367,Average water bottle performs as expected. No complaints but no surprises.,Neutral
+R2368,The smartphone case is okay. It does the job but nothing special.,Neutral
+R2369,This desk lamp is a game changer. So glad I decided to buy it!!,Positive
+R2370,Very satisfied with this laptop backpack. Exactly what I needed and more.,Positive
+R2371,I am thrilled with my phone charger. Shipping was fast and packaging was great.,Positive
+R2372,My portable fan is wonderful. The quality is outstanding for the price point.,Positive
+R2373,The desk lamp is defective. Tried to get a replacement but no luck.,Negative
+R2374,Worst laptop backpack I have ever purchased. Totally useless product.,Negative
+R2375,The wireless headphones arrived on time and was as described. Nothing more to say really.,Neutral
+R2376,"Excellent wireless headphones! Easy to use, well designed, and durable.",Positive
+R2377,The mouse pad is defective. Tried to get a replacement but no luck!!,Negative
+R2378,This smartphone case works like a charm. Easy setup and intuitive controls.,Positive
+R2379,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R2380,This desk lamp does not work properly at all. Extremely frustrating experience.,Negative
+R2381,Terrible laptop backpack! It broke within the first week of use.,Negative
+R2382,Worst mouse pad I have ever purchased. Totally useless product.,Negative
+R2383,What a waste of money this portable fan turned out to be. Very poor quality.,Negative
+R2384,I hate this water bottle. It is nothing like the description said it would be.,Negative
+R2385,My smartphone case is wonderful. The quality is outstanding for the price point.,Positive
+R2386,"Excellent screen protector! Easy to use, well designed, and durable.",Positive
+R2387,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R2388,What a waste of money this laptop backpack turned out to be. Very poor quality.,Negative
+R2389,This portable fan works like a charm. Easy setup and intuitive controls!!,Positive
+R2390,Awful tablet stand with terrible build quality. I want my money back.,Negative
+R2391,This phone charger does not work properly at all. Extremely frustrating experience.,Negative
+R2392,"Excellent smartphone case! Easy to use, well designed, and durable.",Positive
+R2393,I am so happy with my laptop backpack purchase. Works perfectly and looks great.,Positive
+R2394,This smartphone case is fantastic. Best purchase I have made all year.,Positive
+R2395,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R2396,Pretty standard laptop backpack. Nothing really stands out about it.,Neutral
+R2397,Perfect screen protector! It does everything I wanted and more.,Positive
+R2398,What a waste of money this desk lamp turned out to be. Very poor quality.,Negative
+R2399,This yoga mat does not work properly at all. Extremely frustrating experience.,Negative
+R2400,This screen protector is a game changer. So glad I decided to buy it.,Positive
+R2401,Pretty standard meal prep containers. Nothing really stands out about it.,Neutral
+R2402,This desk lamp is alright. I have seen better but I have also seen worse.,Neutral
+R2403,Great laptop backpack for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2404,Very disappointed with this smartphone case. The quality is just not there.,Negative
+R2405,Best laptop backpack I have ever owned. The quality is top notch.,Positive
+R2406,This bluetooth speaker does not work properly at all. Extremely frustrating experience.,Negative
+R2407,The meal prep containers is okay. It does the job but nothing special.,Neutral
+R2408,It is an okay laptop backpack. I might look for something better in the future.,Neutral
+R2409,Awful yoga mat with terrible build quality. I want my money back.,Negative
+R2410,The phone charger does what it is supposed to do. That is about it.,Neutral
+R2411,The running shoes is okay. It does the job but nothing special.,Neutral
+R2412,This bluetooth speaker works like a charm. Easy setup and intuitive controls.,Positive
+R2413,The tablet stand does what it is supposed to do. That is about it.,Neutral
+R2414,Best bluetooth speaker I have ever owned. The quality is top notch.,Positive
+R2415,Absolutely love this meal prep containers! It exceeded all my expectations.,Positive
+R2416,Very disappointed with this meal prep containers. The quality is just not there.,Negative
+R2417,I hate this water bottle. It is nothing like the description said it would be.,Negative
+R2418,Pretty standard coffee maker. Nothing really stands out about it!!,Neutral
+R2419,My portable fan is wonderful. The quality is outstanding for the price point.,Positive
+R2420,Best mouse pad I have ever owned. The quality is top notch.,Positive
+R2421,The meal prep containers is okay. It does the job but nothing special.,Neutral
+R2422,Not bad but not great either. The mouse pad serves its purpose.,Neutral
+R2423,The mouse pad does what it is supposed to do. That is about it.,Neutral
+R2424,Stay away from this wireless headphones! It is overpriced and underperforms.,Negative
+R2425,Worst tablet stand I have ever purchased. Totally useless product.,Negative
+R2426,What a waste of money this phone charger turned out to be. Very poor quality.,Negative
+R2427,What a waste of money this laptop backpack turned out to be. Very poor quality.,Negative
+R2428,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R2429,Absolutely love this portable fan! It exceeded all my expectations.,Positive
+R2430,Perfect tablet stand! It does everything I wanted and more.,Positive
+R2431,Not bad but not great either. The meal prep containers serves its purpose.,Neutral
+R2432,Pretty standard laptop backpack. Nothing really stands out about it.,Neutral
+R2433,Pretty standard yoga mat. Nothing really stands out about it.,Neutral
+R2434,I have mixed feelings about this portable fan. It has some good features but also some drawbacks.,Neutral
+R2435,This desk lamp does not work properly at all. Extremely frustrating experience!!,Negative
+R2436,Not bad but not great either. The yoga mat serves its purpose!!,Neutral
+R2437,The phone charger does what it is supposed to do. That is about it.,Neutral
+R2438,The bluetooth speaker does what it is supposed to do. That is about it.,Neutral
+R2439,This smartphone case is a piece of junk. Cheap materials and bad design.,Negative
+R2440,I have mixed feelings about this water bottle. It has some good features but also some drawbacks.,Neutral
+R2441,The meal prep containers does what it is supposed to do. That is about it.,Neutral
+R2442,The mouse pad does what it is supposed to do. That is about it.,Neutral
+R2443,Worst tablet stand I have ever purchased. Totally useless product.,Negative
+R2444,Perfect tablet stand! It does everything I wanted and more.,Positive
+R2445,My wireless headphones is functional. It could use some improvements in design though.,Neutral
+R2446,Best coffee maker I have ever owned. The quality is top notch.,Positive
+R2447,I cannot believe how good this bluetooth speaker is. Totally worth every penny.,Positive
+R2448,Five stars! This running shoes is amazing and arrived quickly.,Positive
+R2449,Best smartphone case I have ever owned. The quality is top notch.,Positive
+R2450,I cannot believe how good this bluetooth speaker is. Totally worth every penny!!,Positive
+R2451,This phone charger works like a charm. Easy setup and intuitive controls.,Positive
+R2452,Decent tablet stand for the money. Not great but not terrible either.,Neutral
+R2453,This meal prep containers does not work properly at all. Extremely frustrating experience.,Negative
+R2454,Great portable fan for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2455,My bluetooth speaker is functional. It could use some improvements in design though!!,Neutral
+R2456,I am thrilled with my tablet stand. Shipping was fast and packaging was great!!,Positive
+R2457,Average water bottle performs as expected. No complaints but no surprises.,Neutral
+R2458,This coffee maker works like a charm. Easy setup and intuitive controls.,Positive
+R2459,Very satisfied with this smartphone case. Exactly what I needed and more.,Positive
+R2460,It is an okay bluetooth speaker. I might look for something better in the future.,Neutral
+R2461,This laptop backpack works fine. It is not the best but it gets the job done.,Neutral
+R2462,Perfect coffee maker! It does everything I wanted and more.,Positive
+R2463,Best tablet stand I have ever owned. The quality is top notch.,Positive
+R2464,This yoga mat is a game changer. So glad I decided to buy it.,Positive
+R2465,Perfect smartphone case! It does everything I wanted and more.,Positive
+R2466,I am so happy with my laptop backpack purchase. Works perfectly and looks great.,Positive
+R2467,This is the worst bluetooth speaker ever. Save your money and buy something else.,Negative
+R2468,I am so happy with my coffee maker purchase. Works perfectly and looks great.,Positive
+R2469,Five stars! This phone charger is amazing and arrived quickly.,Positive
+R2470,It is an okay bluetooth speaker. I might look for something better in the future.,Neutral
+R2471,It is an okay desk lamp. I might look for something better in the future.,Neutral
+R2472,Very disappointed with this laptop backpack. The quality is just not there.,Negative
+R2473,Best desk lamp I have ever owned. The quality is top notch.,Positive
+R2474,Completely dissatisfied with this water bottle. Do not recommend it to anyone.,Negative
+R2475,I cannot believe how good this bluetooth speaker is. Totally worth every penny.,Positive
+R2476,I cannot believe how good this portable fan is. Totally worth every penny.,Positive
+R2477,This laptop backpack is fantastic. Best purchase I have made all year.,Positive
+R2478,This desk lamp is alright. I have seen better but I have also seen worse.,Neutral
+R2479,Worst smartphone case I have ever purchased. Totally useless product.,Negative
+R2480,This bluetooth speaker works like a charm. Easy setup and intuitive controls.,Positive
+R2481,The smartphone case is horrible. Customer service was no help either.,Negative
+R2482,I am thrilled with my smartphone case. Shipping was fast and packaging was great.,Positive
+R2483,The meal prep containers is defective. Tried to get a replacement but no luck.,Negative
+R2484,This tablet stand is fantastic. Best purchase I have made all year.,Positive
+R2485,Five stars! This mouse pad is amazing and arrived quickly.,Positive
+R2486,Terrible screen protector! It broke within the first week of use.,Negative
+R2487,Do not waste your money on this running shoes. It is poorly made and does not work well.,Negative
+R2488,Very satisfied with this portable fan. Exactly what I needed and more.,Positive
+R2489,"Excellent running shoes! Easy to use, well designed, and durable.",Positive
+R2490,Very satisfied with this desk lamp. Exactly what I needed and more.,Positive
+R2491,The bluetooth speaker is horrible. Customer service was no help either.,Negative
+R2492,Best screen protector I have ever owned. The quality is top notch.,Positive
+R2493,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R2494,I am so happy with my tablet stand purchase. Works perfectly and looks great.,Positive
+R2495,Stay away from this tablet stand! It is overpriced and underperforms.,Negative
+R2496,What a waste of money this phone charger turned out to be. Very poor quality.,Negative
+R2497,Completely dissatisfied with this coffee maker. Do not recommend it to anyone.,Negative
+R2498,I am thrilled with my running shoes. Shipping was fast and packaging was great.,Positive
+R2499,Very disappointed with this smartphone case. The quality is just not there.,Negative
+R2500,This bluetooth speaker is a game changer. So glad I decided to buy it.,Positive
+R2501,"Excellent screen protector! Easy to use, well designed, and durable!!",Positive
+R2502,Completely dissatisfied with this running shoes. Do not recommend it to anyone.,Negative
+R2503,Not bad but not great either. The tablet stand serves its purpose.,Neutral
+R2504,Very satisfied with this screen protector. Exactly what I needed and more.,Positive
+R2505,Great water bottle for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2506,It is an okay meal prep containers. I might look for something better in the future.,Neutral
+R2507,What a waste of money this laptop backpack turned out to be. Very poor quality.,Negative
+R2508,Stay away from this screen protector! It is overpriced and underperforms!!,Negative
+R2509,I am so happy with my tablet stand purchase. Works perfectly and looks great.,Positive
+R2510,The phone charger is defective. Tried to get a replacement but no luck!!,Negative
+R2511,I have mixed feelings about this mouse pad. It has some good features but also some drawbacks.,Neutral
+R2512,Not bad but not great either. The running shoes serves its purpose.,Neutral
+R2513,The smartphone case arrived on time and was as described. Nothing more to say really.,Neutral
+R2514,Decent phone charger for the money. Not great but not terrible either.,Neutral
+R2515,Great coffee maker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2516,The laptop backpack is defective. Tried to get a replacement but no luck.,Negative
+R2517,Very satisfied with this desk lamp. Exactly what I needed and more!!,Positive
+R2518,My tablet stand is functional. It could use some improvements in design though!!,Neutral
+R2519,This wireless headphones is a game changer. So glad I decided to buy it.,Positive
+R2520,The smartphone case is okay. It does the job but nothing special.,Neutral
+R2521,The running shoes arrived on time and was as described. Nothing more to say really.,Neutral
+R2522,Stay away from this smartphone case! It is overpriced and underperforms.,Negative
+R2523,The smartphone case is defective. Tried to get a replacement but no luck.,Negative
+R2524,This desk lamp works fine. It is not the best but it gets the job done.,Neutral
+R2525,The coffee maker arrived on time and was as described. Nothing more to say really.,Neutral
+R2526,Five stars! This portable fan is amazing and arrived quickly.,Positive
+R2527,I am so happy with my tablet stand purchase. Works perfectly and looks great.,Positive
+R2528,Amazing quality yoga mat for such a reasonable price. Will buy again.,Positive
+R2529,This laptop backpack works fine. It is not the best but it gets the job done.,Neutral
+R2530,Amazing quality yoga mat for such a reasonable price. Will buy again.,Positive
+R2531,The tablet stand does what it is supposed to do. That is about it.,Neutral
+R2532,This tablet stand is alright. I have seen better but I have also seen worse.,Neutral
+R2533,The bluetooth speaker arrived on time and was as described. Nothing more to say really.,Neutral
+R2534,Very satisfied with this running shoes. Exactly what I needed and more.,Positive
+R2535,I cannot believe how good this mouse pad is. Totally worth every penny.,Positive
+R2536,I am so happy with my bluetooth speaker purchase. Works perfectly and looks great!!,Positive
+R2537,Great desk lamp for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2538,Best water bottle I have ever owned. The quality is top notch.,Positive
+R2539,Decent tablet stand for the money. Not great but not terrible either.,Neutral
+R2540,Best bluetooth speaker I have ever owned. The quality is top notch.,Positive
+R2541,Decent portable fan for the money. Not great but not terrible either.,Neutral
+R2542,The laptop backpack does what it is supposed to do. That is about it.,Neutral
+R2543,I am thrilled with my meal prep containers. Shipping was fast and packaging was great.,Positive
+R2544,This is the worst phone charger ever. Save your money and buy something else.,Negative
+R2545,The water bottle does what it is supposed to do. That is about it.,Neutral
+R2546,It is an okay bluetooth speaker. I might look for something better in the future.,Neutral
+R2547,The running shoes is okay. It does the job but nothing special.,Neutral
+R2548,I cannot believe how good this wireless headphones is. Totally worth every penny.,Positive
+R2549,Average desk lamp performs as expected. No complaints but no surprises.,Neutral
+R2550,Very satisfied with this wireless headphones. Exactly what I needed and more!!,Positive
+R2551,Five stars! This smartphone case is amazing and arrived quickly.,Positive
+R2552,The meal prep containers is horrible. Customer service was no help either.,Negative
+R2553,Terrible bluetooth speaker! It broke within the first week of use.,Negative
+R2554,Five stars! This laptop backpack is amazing and arrived quickly.,Positive
+R2555,The smartphone case is horrible. Customer service was no help either.,Negative
+R2556,The yoga mat arrived on time and was as described. Nothing more to say really.,Neutral
+R2557,Perfect wireless headphones! It does everything I wanted and more.,Positive
+R2558,Worst yoga mat I have ever purchased. Totally useless product.,Negative
+R2559,This is the worst portable fan ever. Save your money and buy something else.,Negative
+R2560,This desk lamp works fine. It is not the best but it gets the job done.,Neutral
+R2561,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R2562,My wireless headphones is functional. It could use some improvements in design though.,Neutral
+R2563,Great mouse pad for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2564,Decent smartphone case for the money. Not great but not terrible either.,Neutral
+R2565,Best coffee maker I have ever owned. The quality is top notch.,Positive
+R2566,Best phone charger I have ever owned. The quality is top notch.,Positive
+R2567,Stay away from this running shoes! It is overpriced and underperforms.,Negative
+R2568,This portable fan works like a charm. Easy setup and intuitive controls.,Positive
+R2569,The yoga mat arrived on time and was as described. Nothing more to say really.,Neutral
+R2570,I cannot believe how good this screen protector is. Totally worth every penny.,Positive
+R2571,The phone charger is okay. It does the job but nothing special.,Neutral
+R2572,Five stars! This bluetooth speaker is amazing and arrived quickly!!,Positive
+R2573,This meal prep containers is a piece of junk. Cheap materials and bad design.,Negative
+R2574,Very satisfied with this desk lamp. Exactly what I needed and more.,Positive
+R2575,"Excellent bluetooth speaker! Easy to use, well designed, and durable.",Positive
+R2576,I cannot believe how good this portable fan is. Totally worth every penny.,Positive
+R2577,Terrible bluetooth speaker! It broke within the first week of use.,Negative
+R2578,The meal prep containers is okay. It does the job but nothing special.,Neutral
+R2579,Stay away from this tablet stand! It is overpriced and underperforms.,Negative
+R2580,This coffee maker works like a charm. Easy setup and intuitive controls.,Positive
+R2581,Decent phone charger for the money. Not great but not terrible either!!,Neutral
+R2582,This laptop backpack works fine. It is not the best but it gets the job done.,Neutral
+R2583,Amazing quality coffee maker for such a reasonable price. Will buy again.,Positive
+R2584,Great desk lamp for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2585,Absolutely love this smartphone case! It exceeded all my expectations.,Positive
+R2586,The yoga mat arrived on time and was as described. Nothing more to say really.,Neutral
+R2587,Best coffee maker I have ever owned. The quality is top notch.,Positive
+R2588,The yoga mat is okay. It does the job but nothing special!!,Neutral
+R2589,Great yoga mat for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2590,Absolutely love this coffee maker! It exceeded all my expectations.,Positive
+R2591,My portable fan is functional. It could use some improvements in design though.,Neutral
+R2592,This desk lamp works fine. It is not the best but it gets the job done.,Neutral
+R2593,Great phone charger for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2594,Average coffee maker performs as expected. No complaints but no surprises.,Neutral
+R2595,I cannot believe how good this portable fan is. Totally worth every penny.,Positive
+R2596,The meal prep containers is horrible. Customer service was no help either.,Negative
+R2597,"Excellent smartphone case! Easy to use, well designed, and durable.",Positive
+R2598,I have mixed feelings about this mouse pad. It has some good features but also some drawbacks.,Neutral
+R2599,Do not waste your money on this meal prep containers. It is poorly made and does not work well!!,Negative
+R2600,Amazing quality bluetooth speaker for such a reasonable price. Will buy again.,Positive
+R2601,Great water bottle for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2602,The tablet stand is defective. Tried to get a replacement but no luck.,Negative
+R2603,This meal prep containers is alright. I have seen better but I have also seen worse.,Neutral
+R2604,Very disappointed with this water bottle. The quality is just not there!!,Negative
+R2605,Absolutely love this mouse pad! It exceeded all my expectations.,Positive
+R2606,I am so happy with my wireless headphones purchase. Works perfectly and looks great.,Positive
+R2607,Completely dissatisfied with this bluetooth speaker. Do not recommend it to anyone.,Negative
+R2608,Awful wireless headphones with terrible build quality. I want my money back.,Negative
+R2609,Pretty standard mouse pad. Nothing really stands out about it.,Neutral
+R2610,Amazing quality water bottle for such a reasonable price. Will buy again.,Positive
+R2611,"Excellent yoga mat! Easy to use, well designed, and durable!!",Positive
+R2612,Five stars! This meal prep containers is amazing and arrived quickly.,Positive
+R2613,The mouse pad is okay. It does the job but nothing special.,Neutral
+R2614,This screen protector does not work properly at all. Extremely frustrating experience!!,Negative
+R2615,The laptop backpack is okay. It does the job but nothing special.,Neutral
+R2616,Completely dissatisfied with this yoga mat. Do not recommend it to anyone.,Negative
+R2617,It is an okay desk lamp. I might look for something better in the future.,Neutral
+R2618,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R2619,Decent laptop backpack for the money. Not great but not terrible either.,Neutral
+R2620,This smartphone case is a game changer. So glad I decided to buy it.,Positive
+R2621,Amazing quality screen protector for such a reasonable price. Will buy again.,Positive
+R2622,The bluetooth speaker is horrible. Customer service was no help either.,Negative
+R2623,I cannot believe how good this desk lamp is. Totally worth every penny.,Positive
+R2624,My coffee maker is functional. It could use some improvements in design though.,Neutral
+R2625,I regret buying this smartphone case. It stopped working after just a month.,Negative
+R2626,I regret buying this screen protector. It stopped working after just a month.,Negative
+R2627,The smartphone case is okay. It does the job but nothing special.,Neutral
+R2628,Perfect portable fan! It does everything I wanted and more.,Positive
+R2629,Awful meal prep containers with terrible build quality. I want my money back.,Negative
+R2630,Decent smartphone case for the money. Not great but not terrible either.,Neutral
+R2631,I am so happy with my coffee maker purchase. Works perfectly and looks great.,Positive
+R2632,Worst running shoes I have ever purchased. Totally useless product.,Negative
+R2633,I cannot believe how good this meal prep containers is. Totally worth every penny.,Positive
+R2634,I am thrilled with my bluetooth speaker. Shipping was fast and packaging was great.,Positive
+R2635,It is an okay running shoes. I might look for something better in the future.,Neutral
+R2636,Very satisfied with this tablet stand. Exactly what I needed and more.,Positive
+R2637,My smartphone case is functional. It could use some improvements in design though.,Neutral
+R2638,Best portable fan I have ever owned. The quality is top notch.,Positive
+R2639,This smartphone case is a piece of junk. Cheap materials and bad design.,Negative
+R2640,Terrible mouse pad! It broke within the first week of use.,Negative
+R2641,Amazing quality bluetooth speaker for such a reasonable price. Will buy again.,Positive
+R2642,I have mixed feelings about this mouse pad. It has some good features but also some drawbacks.,Neutral
+R2643,This mouse pad is alright. I have seen better but I have also seen worse.,Neutral
+R2644,Average laptop backpack performs as expected. No complaints but no surprises!!,Neutral
+R2645,This bluetooth speaker is fantastic. Best purchase I have made all year.,Positive
+R2646,Pretty standard running shoes. Nothing really stands out about it.,Neutral
+R2647,This meal prep containers is fantastic. Best purchase I have made all year!!,Positive
+R2648,This is the worst mouse pad ever. Save your money and buy something else!!,Negative
+R2649,Do not waste your money on this yoga mat. It is poorly made and does not work well!!,Negative
+R2650,This mouse pad works like a charm. Easy setup and intuitive controls.,Positive
+R2651,Pretty standard tablet stand. Nothing really stands out about it.,Neutral
+R2652,Not bad but not great either. The coffee maker serves its purpose.,Neutral
+R2653,Perfect portable fan! It does everything I wanted and more.,Positive
+R2654,The bluetooth speaker is okay. It does the job but nothing special!!,Neutral
+R2655,I am so happy with my portable fan purchase. Works perfectly and looks great!!,Positive
+R2656,I cannot believe how good this mouse pad is. Totally worth every penny.,Positive
+R2657,Best phone charger I have ever owned. The quality is top notch.,Positive
+R2658,I regret buying this phone charger. It stopped working after just a month.,Negative
+R2659,I regret buying this bluetooth speaker. It stopped working after just a month.,Negative
+R2660,Best bluetooth speaker I have ever owned. The quality is top notch.,Positive
+R2661,It is an okay laptop backpack. I might look for something better in the future.,Neutral
+R2662,This is the worst phone charger ever. Save your money and buy something else.,Negative
+R2663,I hate this tablet stand. It is nothing like the description said it would be.,Negative
+R2664,I cannot believe how good this mouse pad is. Totally worth every penny.,Positive
+R2665,I cannot believe how good this desk lamp is. Totally worth every penny.,Positive
+R2666,The smartphone case arrived on time and was as described. Nothing more to say really.,Neutral
+R2667,Great wireless headphones for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2668,Great smartphone case for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2669,Average coffee maker performs as expected. No complaints but no surprises.,Neutral
+R2670,Great wireless headphones for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2671,Terrible water bottle! It broke within the first week of use.,Negative
+R2672,The wireless headphones is okay. It does the job but nothing special.,Neutral
+R2673,The wireless headphones arrived on time and was as described. Nothing more to say really.,Neutral
+R2674,Average phone charger performs as expected. No complaints but no surprises.,Neutral
+R2675,Do not waste your money on this yoga mat. It is poorly made and does not work well.,Negative
+R2676,Pretty standard running shoes. Nothing really stands out about it.,Neutral
+R2677,Do not waste your money on this portable fan. It is poorly made and does not work well.,Negative
+R2678,This water bottle does not work properly at all. Extremely frustrating experience.,Negative
+R2679,The bluetooth speaker does what it is supposed to do. That is about it.,Neutral
+R2680,What a waste of money this smartphone case turned out to be. Very poor quality.,Negative
+R2681,The desk lamp does what it is supposed to do. That is about it.,Neutral
+R2682,Very satisfied with this phone charger. Exactly what I needed and more.,Positive
+R2683,Amazing quality phone charger for such a reasonable price. Will buy again.,Positive
+R2684,Worst bluetooth speaker I have ever purchased. Totally useless product.,Negative
+R2685,The running shoes is okay. It does the job but nothing special.,Neutral
+R2686,Average running shoes performs as expected. No complaints but no surprises.,Neutral
+R2687,Do not waste your money on this smartphone case. It is poorly made and does not work well.,Negative
+R2688,I am thrilled with my smartphone case. Shipping was fast and packaging was great.,Positive
+R2689,This phone charger does not work properly at all. Extremely frustrating experience.,Negative
+R2690,"Excellent smartphone case! Easy to use, well designed, and durable.",Positive
+R2691,I am so happy with my coffee maker purchase. Works perfectly and looks great.,Positive
+R2692,This smartphone case is fantastic. Best purchase I have made all year.,Positive
+R2693,"Excellent coffee maker! Easy to use, well designed, and durable.",Positive
+R2694,Completely dissatisfied with this tablet stand. Do not recommend it to anyone.,Negative
+R2695,I hate this water bottle. It is nothing like the description said it would be.,Negative
+R2696,My running shoes is functional. It could use some improvements in design though.,Neutral
+R2697,Very satisfied with this yoga mat. Exactly what I needed and more.,Positive
+R2698,This yoga mat is fantastic. Best purchase I have made all year.,Positive
+R2699,Amazing quality coffee maker for such a reasonable price. Will buy again.,Positive
+R2700,Perfect water bottle! It does everything I wanted and more.,Positive
+R2701,Stay away from this mouse pad! It is overpriced and underperforms.,Negative
+R2702,Do not waste your money on this running shoes. It is poorly made and does not work well.,Negative
+R2703,It is an okay laptop backpack. I might look for something better in the future.,Neutral
+R2704,"Excellent yoga mat! Easy to use, well designed, and durable.",Positive
+R2705,"Excellent mouse pad! Easy to use, well designed, and durable.",Positive
+R2706,It is an okay screen protector. I might look for something better in the future.,Neutral
+R2707,This yoga mat is fantastic. Best purchase I have made all year.,Positive
+R2708,This tablet stand is a piece of junk. Cheap materials and bad design.,Negative
+R2709,"Excellent coffee maker! Easy to use, well designed, and durable.",Positive
+R2710,Completely dissatisfied with this bluetooth speaker. Do not recommend it to anyone.,Negative
+R2711,I am thrilled with my water bottle. Shipping was fast and packaging was great.,Positive
+R2712,I am thrilled with my yoga mat. Shipping was fast and packaging was great.,Positive
+R2713,Great wireless headphones for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2714,The desk lamp is horrible. Customer service was no help either.,Negative
+R2715,I am so happy with my smartphone case purchase. Works perfectly and looks great.,Positive
+R2716,Best mouse pad I have ever owned. The quality is top notch.,Positive
+R2717,Perfect laptop backpack! It does everything I wanted and more.,Positive
+R2718,Very disappointed with this wireless headphones. The quality is just not there.,Negative
+R2719,I regret buying this portable fan. It stopped working after just a month.,Negative
+R2720,Not bad but not great either. The running shoes serves its purpose.,Neutral
+R2721,Pretty standard bluetooth speaker. Nothing really stands out about it.,Neutral
+R2722,I cannot believe how good this water bottle is. Totally worth every penny.,Positive
+R2723,This screen protector is a game changer. So glad I decided to buy it.,Positive
+R2724,This is the worst water bottle ever. Save your money and buy something else.,Negative
+R2725,Best meal prep containers I have ever owned. The quality is top notch.,Positive
+R2726,I am so happy with my wireless headphones purchase. Works perfectly and looks great.,Positive
+R2727,The tablet stand arrived on time and was as described. Nothing more to say really.,Neutral
+R2728,Best phone charger I have ever owned. The quality is top notch.,Positive
+R2729,Do not waste your money on this mouse pad. It is poorly made and does not work well.,Negative
+R2730,Very disappointed with this water bottle. The quality is just not there.,Negative
+R2731,Pretty standard running shoes. Nothing really stands out about it.,Neutral
+R2732,This running shoes is a piece of junk. Cheap materials and bad design.,Negative
+R2733,My desk lamp is functional. It could use some improvements in design though.,Neutral
+R2734,Absolutely love this yoga mat! It exceeded all my expectations.,Positive
+R2735,This mouse pad works like a charm. Easy setup and intuitive controls.,Positive
+R2736,I cannot believe how good this tablet stand is. Totally worth every penny.,Positive
+R2737,The phone charger is horrible. Customer service was no help either.,Negative
+R2738,Amazing quality smartphone case for such a reasonable price. Will buy again.,Positive
+R2739,Very satisfied with this bluetooth speaker. Exactly what I needed and more.,Positive
+R2740,This running shoes works fine. It is not the best but it gets the job done.,Neutral
+R2741,Perfect running shoes! It does everything I wanted and more.,Positive
+R2742,Amazing quality screen protector for such a reasonable price. Will buy again.,Positive
+R2743,This portable fan does not work properly at all. Extremely frustrating experience!!,Negative
+R2744,It is an okay screen protector. I might look for something better in the future.,Neutral
+R2745,Stay away from this screen protector! It is overpriced and underperforms.,Negative
+R2746,Absolutely love this portable fan! It exceeded all my expectations.,Positive
+R2747,Average laptop backpack performs as expected. No complaints but no surprises.,Neutral
+R2748,This smartphone case is a piece of junk. Cheap materials and bad design.,Negative
+R2749,Not bad but not great either. The yoga mat serves its purpose.,Neutral
+R2750,I am thrilled with my meal prep containers. Shipping was fast and packaging was great!!,Positive
+R2751,Awful yoga mat with terrible build quality. I want my money back.,Negative
+R2752,The screen protector does what it is supposed to do. That is about it.,Neutral
+R2753,The portable fan is defective. Tried to get a replacement but no luck.,Negative
+R2754,Amazing quality screen protector for such a reasonable price. Will buy again!!,Positive
+R2755,I am thrilled with my bluetooth speaker. Shipping was fast and packaging was great.,Positive
+R2756,What a waste of money this mouse pad turned out to be. Very poor quality.,Negative
+R2757,I cannot believe how good this water bottle is. Totally worth every penny.,Positive
+R2758,This is the worst laptop backpack ever. Save your money and buy something else.,Negative
+R2759,Amazing quality portable fan for such a reasonable price. Will buy again.,Positive
+R2760,The desk lamp is horrible. Customer service was no help either.,Negative
+R2761,The screen protector arrived on time and was as described. Nothing more to say really.,Neutral
+R2762,Pretty standard smartphone case. Nothing really stands out about it.,Neutral
+R2763,This desk lamp is a game changer. So glad I decided to buy it.,Positive
+R2764,The desk lamp is defective. Tried to get a replacement but no luck.,Negative
+R2765,Average yoga mat performs as expected. No complaints but no surprises.,Neutral
+R2766,My desk lamp is functional. It could use some improvements in design though.,Neutral
+R2767,Decent phone charger for the money. Not great but not terrible either!!,Neutral
+R2768,Do not waste your money on this meal prep containers. It is poorly made and does not work well.,Negative
+R2769,My portable fan is wonderful. The quality is outstanding for the price point.,Positive
+R2770,Five stars! This laptop backpack is amazing and arrived quickly.,Positive
+R2771,I am thrilled with my meal prep containers. Shipping was fast and packaging was great.,Positive
+R2772,The coffee maker does what it is supposed to do. That is about it.,Neutral
+R2773,Terrible desk lamp! It broke within the first week of use.,Negative
+R2774,This smartphone case is fantastic. Best purchase I have made all year.,Positive
+R2775,I have mixed feelings about this smartphone case. It has some good features but also some drawbacks.,Neutral
+R2776,Decent smartphone case for the money. Not great but not terrible either.,Neutral
+R2777,Great mouse pad for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2778,The wireless headphones is horrible. Customer service was no help either!!,Negative
+R2779,I cannot believe how good this desk lamp is. Totally worth every penny.,Positive
+R2780,"Excellent screen protector! Easy to use, well designed, and durable.",Positive
+R2781,Amazing quality wireless headphones for such a reasonable price. Will buy again.,Positive
+R2782,The water bottle is okay. It does the job but nothing special.,Neutral
+R2783,My tablet stand is functional. It could use some improvements in design though!!,Neutral
+R2784,Best phone charger I have ever owned. The quality is top notch.,Positive
+R2785,The water bottle is okay. It does the job but nothing special.,Neutral
+R2786,I have mixed feelings about this portable fan. It has some good features but also some drawbacks.,Neutral
+R2787,Average screen protector performs as expected. No complaints but no surprises.,Neutral
+R2788,Best meal prep containers I have ever owned. The quality is top notch.,Positive
+R2789,This tablet stand is a piece of junk. Cheap materials and bad design.,Negative
+R2790,Perfect phone charger! It does everything I wanted and more.,Positive
+R2791,I cannot believe how good this tablet stand is. Totally worth every penny.,Positive
+R2792,I regret buying this laptop backpack. It stopped working after just a month.,Negative
+R2793,Best screen protector I have ever owned. The quality is top notch.,Positive
+R2794,I am thrilled with my water bottle. Shipping was fast and packaging was great.,Positive
+R2795,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R2796,"Excellent screen protector! Easy to use, well designed, and durable.",Positive
+R2797,My mouse pad is wonderful. The quality is outstanding for the price point.,Positive
+R2798,This running shoes is a piece of junk. Cheap materials and bad design.,Negative
+R2799,Decent desk lamp for the money. Not great but not terrible either.,Neutral
+R2800,Five stars! This phone charger is amazing and arrived quickly.,Positive
+R2801,Amazing quality mouse pad for such a reasonable price. Will buy again.,Positive
+R2802,I cannot believe how good this yoga mat is. Totally worth every penny.,Positive
+R2803,I have mixed feelings about this running shoes. It has some good features but also some drawbacks!!,Neutral
+R2804,Worst desk lamp I have ever purchased. Totally useless product.,Negative
+R2805,The smartphone case is okay. It does the job but nothing special!!,Neutral
+R2806,This yoga mat is a piece of junk. Cheap materials and bad design.,Negative
+R2807,This screen protector is a piece of junk. Cheap materials and bad design.,Negative
+R2808,Great water bottle for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2809,Pretty standard coffee maker. Nothing really stands out about it.,Neutral
+R2810,The mouse pad does what it is supposed to do. That is about it.,Neutral
+R2811,Awful desk lamp with terrible build quality. I want my money back.,Negative
+R2812,Average laptop backpack performs as expected. No complaints but no surprises.,Neutral
+R2813,The coffee maker is horrible. Customer service was no help either.,Negative
+R2814,This is the worst yoga mat ever. Save your money and buy something else.,Negative
+R2815,Terrible coffee maker! It broke within the first week of use.,Negative
+R2816,Amazing quality wireless headphones for such a reasonable price. Will buy again.,Positive
+R2817,Absolutely love this running shoes! It exceeded all my expectations.,Positive
+R2818,The wireless headphones arrived on time and was as described. Nothing more to say really!!,Neutral
+R2819,This smartphone case works like a charm. Easy setup and intuitive controls.,Positive
+R2820,The coffee maker arrived on time and was as described. Nothing more to say really.,Neutral
+R2821,The phone charger arrived on time and was as described. Nothing more to say really!!,Neutral
+R2822,Best coffee maker I have ever owned. The quality is top notch.,Positive
+R2823,Decent desk lamp for the money. Not great but not terrible either.,Neutral
+R2824,Terrible smartphone case! It broke within the first week of use.,Negative
+R2825,Decent bluetooth speaker for the money. Not great but not terrible either.,Neutral
+R2826,It is an okay meal prep containers. I might look for something better in the future.,Neutral
+R2827,Amazing quality meal prep containers for such a reasonable price. Will buy again.,Positive
+R2828,The phone charger is okay. It does the job but nothing special.,Neutral
+R2829,Amazing quality coffee maker for such a reasonable price. Will buy again.,Positive
+R2830,Very disappointed with this coffee maker. The quality is just not there.,Negative
+R2831,I am thrilled with my portable fan. Shipping was fast and packaging was great.,Positive
+R2832,I am so happy with my screen protector purchase. Works perfectly and looks great.,Positive
+R2833,I have mixed feelings about this yoga mat. It has some good features but also some drawbacks.,Neutral
+R2834,I cannot believe how good this screen protector is. Totally worth every penny.,Positive
+R2835,Very satisfied with this phone charger. Exactly what I needed and more.,Positive
+R2836,Five stars! This tablet stand is amazing and arrived quickly.,Positive
+R2837,Very disappointed with this laptop backpack. The quality is just not there.,Negative
+R2838,My smartphone case is wonderful. The quality is outstanding for the price point.,Positive
+R2839,Perfect desk lamp! It does everything I wanted and more.,Positive
+R2840,Very disappointed with this smartphone case. The quality is just not there!!,Negative
+R2841,Perfect wireless headphones! It does everything I wanted and more.,Positive
+R2842,Not bad but not great either. The laptop backpack serves its purpose.,Neutral
+R2843,Very satisfied with this portable fan. Exactly what I needed and more.,Positive
+R2844,What a waste of money this coffee maker turned out to be. Very poor quality.,Negative
+R2845,Decent phone charger for the money. Not great but not terrible either.,Neutral
+R2846,I cannot believe how good this yoga mat is. Totally worth every penny.,Positive
+R2847,This phone charger is a piece of junk. Cheap materials and bad design.,Negative
+R2848,I cannot believe how good this coffee maker is. Totally worth every penny.,Positive
+R2849,This mouse pad is a game changer. So glad I decided to buy it.,Positive
+R2850,Decent screen protector for the money. Not great but not terrible either.,Neutral
+R2851,"Excellent screen protector! Easy to use, well designed, and durable!!",Positive
+R2852,Stay away from this desk lamp! It is overpriced and underperforms.,Negative
+R2853,Very satisfied with this screen protector. Exactly what I needed and more.,Positive
+R2854,Very satisfied with this running shoes. Exactly what I needed and more.,Positive
+R2855,Five stars! This tablet stand is amazing and arrived quickly!!,Positive
+R2856,Best running shoes I have ever owned. The quality is top notch.,Positive
+R2857,It is an okay laptop backpack. I might look for something better in the future.,Neutral
+R2858,I hate this water bottle. It is nothing like the description said it would be.,Negative
+R2859,The wireless headphones does what it is supposed to do. That is about it.,Neutral
+R2860,Terrible smartphone case! It broke within the first week of use.,Negative
+R2861,Decent laptop backpack for the money. Not great but not terrible either.,Neutral
+R2862,My screen protector is functional. It could use some improvements in design though.,Neutral
+R2863,This running shoes is fantastic. Best purchase I have made all year.,Positive
+R2864,This meal prep containers works fine. It is not the best but it gets the job done.,Neutral
+R2865,My laptop backpack is wonderful. The quality is outstanding for the price point.,Positive
+R2866,Best coffee maker I have ever owned. The quality is top notch.,Positive
+R2867,This meal prep containers is a game changer. So glad I decided to buy it.,Positive
+R2868,Pretty standard screen protector. Nothing really stands out about it.,Neutral
+R2869,Do not waste your money on this smartphone case. It is poorly made and does not work well.,Negative
+R2870,Absolutely love this bluetooth speaker! It exceeded all my expectations.,Positive
+R2871,I am so happy with my wireless headphones purchase. Works perfectly and looks great.,Positive
+R2872,Perfect bluetooth speaker! It does everything I wanted and more!!,Positive
+R2873,"Excellent yoga mat! Easy to use, well designed, and durable.",Positive
+R2874,"Excellent laptop backpack! Easy to use, well designed, and durable!!",Positive
+R2875,This desk lamp works fine. It is not the best but it gets the job done.,Neutral
+R2876,I am thrilled with my bluetooth speaker. Shipping was fast and packaging was great.,Positive
+R2877,Pretty standard portable fan. Nothing really stands out about it.,Neutral
+R2878,This yoga mat is alright. I have seen better but I have also seen worse.,Neutral
+R2879,Not bad but not great either. The yoga mat serves its purpose.,Neutral
+R2880,Amazing quality yoga mat for such a reasonable price. Will buy again.,Positive
+R2881,Amazing quality mouse pad for such a reasonable price. Will buy again.,Positive
+R2882,Perfect coffee maker! It does everything I wanted and more.,Positive
+R2883,It is an okay bluetooth speaker. I might look for something better in the future.,Neutral
+R2884,My bluetooth speaker is wonderful. The quality is outstanding for the price point.,Positive
+R2885,Best meal prep containers I have ever owned. The quality is top notch.,Positive
+R2886,Decent meal prep containers for the money. Not great but not terrible either.,Neutral
+R2887,Very disappointed with this desk lamp. The quality is just not there.,Negative
+R2888,Very satisfied with this desk lamp. Exactly what I needed and more.,Positive
+R2889,This screen protector is alright. I have seen better but I have also seen worse.,Neutral
+R2890,The yoga mat is defective. Tried to get a replacement but no luck.,Negative
+R2891,This coffee maker works fine. It is not the best but it gets the job done.,Neutral
+R2892,My meal prep containers is wonderful. The quality is outstanding for the price point.,Positive
+R2893,Not bad but not great either. The portable fan serves its purpose.,Neutral
+R2894,I regret buying this yoga mat. It stopped working after just a month.,Negative
+R2895,I have mixed feelings about this desk lamp. It has some good features but also some drawbacks.,Neutral
+R2896,This is the worst coffee maker ever. Save your money and buy something else.,Negative
+R2897,Five stars! This tablet stand is amazing and arrived quickly!!,Positive
+R2898,Great wireless headphones for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2899,"Excellent wireless headphones! Easy to use, well designed, and durable.",Positive
+R2900,The desk lamp is okay. It does the job but nothing special.,Neutral
+R2901,This coffee maker is alright. I have seen better but I have also seen worse.,Neutral
+R2902,This bluetooth speaker is fantastic. Best purchase I have made all year.,Positive
+R2903,Great meal prep containers for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2904,Great coffee maker for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2905,Completely dissatisfied with this portable fan. Do not recommend it to anyone.,Negative
+R2906,This screen protector is fantastic. Best purchase I have made all year.,Positive
+R2907,I regret buying this water bottle. It stopped working after just a month.,Negative
+R2908,Worst screen protector I have ever purchased. Totally useless product.,Negative
+R2909,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R2910,I regret buying this laptop backpack. It stopped working after just a month.,Negative
+R2911,Perfect screen protector! It does everything I wanted and more.,Positive
+R2912,It is an okay portable fan. I might look for something better in the future.,Neutral
+R2913,Very satisfied with this yoga mat. Exactly what I needed and more.,Positive
+R2914,My tablet stand is wonderful. The quality is outstanding for the price point.,Positive
+R2915,I hate this running shoes. It is nothing like the description said it would be!!,Negative
+R2916,I cannot believe how good this portable fan is. Totally worth every penny.,Positive
+R2917,Awful coffee maker with terrible build quality. I want my money back.,Negative
+R2918,This is the worst bluetooth speaker ever. Save your money and buy something else.,Negative
+R2919,Terrible coffee maker! It broke within the first week of use.,Negative
+R2920,Perfect running shoes! It does everything I wanted and more.,Positive
+R2921,I hate this phone charger. It is nothing like the description said it would be.,Negative
+R2922,This coffee maker does not work properly at all. Extremely frustrating experience.,Negative
+R2923,This water bottle is fantastic. Best purchase I have made all year.,Positive
+R2924,My meal prep containers is wonderful. The quality is outstanding for the price point.,Positive
+R2925,Perfect water bottle! It does everything I wanted and more.,Positive
+R2926,This meal prep containers is a piece of junk. Cheap materials and bad design.,Negative
+R2927,I am so happy with my tablet stand purchase. Works perfectly and looks great.,Positive
+R2928,I am so happy with my mouse pad purchase. Works perfectly and looks great.,Positive
+R2929,Absolutely love this screen protector! It exceeded all my expectations.,Positive
+R2930,This laptop backpack is fantastic. Best purchase I have made all year.,Positive
+R2931,Very satisfied with this smartphone case. Exactly what I needed and more.,Positive
+R2932,This wireless headphones works like a charm. Easy setup and intuitive controls.,Positive
+R2933,Very disappointed with this screen protector. The quality is just not there.,Negative
+R2934,This bluetooth speaker does not work properly at all. Extremely frustrating experience.,Negative
+R2935,My coffee maker is functional. It could use some improvements in design though.,Neutral
+R2936,This water bottle is fantastic. Best purchase I have made all year.,Positive
+R2937,I have mixed feelings about this bluetooth speaker. It has some good features but also some drawbacks.,Neutral
+R2938,Very satisfied with this bluetooth speaker. Exactly what I needed and more.,Positive
+R2939,"Excellent tablet stand! Easy to use, well designed, and durable.",Positive
+R2940,I hate this water bottle. It is nothing like the description said it would be.,Negative
+R2941,Best running shoes I have ever owned. The quality is top notch.,Positive
+R2942,It is an okay mouse pad. I might look for something better in the future.,Neutral
+R2943,I cannot believe how good this water bottle is. Totally worth every penny!!,Positive
+R2944,Amazing quality desk lamp for such a reasonable price. Will buy again.,Positive
+R2945,The screen protector is defective. Tried to get a replacement but no luck.,Negative
+R2946,Best screen protector I have ever owned. The quality is top notch!!,Positive
+R2947,Worst bluetooth speaker I have ever purchased. Totally useless product.,Negative
+R2948,Worst laptop backpack I have ever purchased. Totally useless product.,Negative
+R2949,This phone charger is fantastic. Best purchase I have made all year.,Positive
+R2950,Best desk lamp I have ever owned. The quality is top notch.,Positive
+R2951,I am thrilled with my mouse pad. Shipping was fast and packaging was great.,Positive
+R2952,Amazing quality coffee maker for such a reasonable price. Will buy again.,Positive
+R2953,"Excellent desk lamp! Easy to use, well designed, and durable.",Positive
+R2954,I have mixed feelings about this desk lamp. It has some good features but also some drawbacks.,Neutral
+R2955,Completely dissatisfied with this portable fan. Do not recommend it to anyone.,Negative
+R2956,This yoga mat is a game changer. So glad I decided to buy it.,Positive
+R2957,This water bottle works like a charm. Easy setup and intuitive controls!!,Positive
+R2958,What a waste of money this mouse pad turned out to be. Very poor quality.,Negative
+R2959,I hate this smartphone case. It is nothing like the description said it would be.,Negative
+R2960,Average portable fan performs as expected. No complaints but no surprises.,Neutral
+R2961,I am thrilled with my meal prep containers. Shipping was fast and packaging was great.,Positive
+R2962,Pretty standard bluetooth speaker. Nothing really stands out about it.,Neutral
+R2963,Amazing quality running shoes for such a reasonable price. Will buy again.,Positive
+R2964,This wireless headphones does not work properly at all. Extremely frustrating experience.,Negative
+R2965,This yoga mat is a game changer. So glad I decided to buy it!!,Positive
+R2966,Worst bluetooth speaker I have ever purchased. Totally useless product.,Negative
+R2967,This desk lamp is a game changer. So glad I decided to buy it.,Positive
+R2968,"Excellent tablet stand! Easy to use, well designed, and durable.",Positive
+R2969,I am so happy with my meal prep containers purchase. Works perfectly and looks great.,Positive
+R2970,Great portable fan for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2971,Decent desk lamp for the money. Not great but not terrible either.,Neutral
+R2972,Absolutely love this screen protector! It exceeded all my expectations.,Positive
+R2973,This phone charger does not work properly at all. Extremely frustrating experience.,Negative
+R2974,Pretty standard screen protector. Nothing really stands out about it.,Neutral
+R2975,Great mouse pad for the price. Highly recommend to anyone looking for a quality product.,Positive
+R2976,My yoga mat is wonderful. The quality is outstanding for the price point.,Positive
+R2977,I am thrilled with my bluetooth speaker. Shipping was fast and packaging was great.,Positive
+R2978,This mouse pad is fantastic. Best purchase I have made all year.,Positive
+R2979,Five stars! This phone charger is amazing and arrived quickly.,Positive
+R2980,Stay away from this water bottle! It is overpriced and underperforms.,Negative
+R2981,Amazing quality coffee maker for such a reasonable price. Will buy again.,Positive
+R2982,This yoga mat is fantastic. Best purchase I have made all year.,Positive
+R2983,This coffee maker is fantastic. Best purchase I have made all year.,Positive
+R2984,Amazing quality phone charger for such a reasonable price. Will buy again.,Positive
+R2985,Absolutely love this water bottle! It exceeded all my expectations.,Positive
+R2986,"Excellent water bottle! Easy to use, well designed, and durable.",Positive
+R2987,Absolutely love this desk lamp! It exceeded all my expectations.,Positive
+R2988,The yoga mat is defective. Tried to get a replacement but no luck.,Negative
+R2989,This phone charger works like a charm. Easy setup and intuitive controls.,Positive
+R2990,The desk lamp is okay. It does the job but nothing special!!,Neutral
+R2991,Amazing quality water bottle for such a reasonable price. Will buy again.,Positive
+R2992,Terrible portable fan! It broke within the first week of use!!,Negative
+R2993,This running shoes is a game changer. So glad I decided to buy it.,Positive
+R2994,Stay away from this screen protector! It is overpriced and underperforms.,Negative
+R2995,Absolutely love this meal prep containers! It exceeded all my expectations.,Positive
+R2996,The desk lamp arrived on time and was as described. Nothing more to say really.,Neutral
+R2997,Average mouse pad performs as expected. No complaints but no surprises!!,Neutral
+R2998,Awful portable fan with terrible build quality. I want my money back.,Negative
+R2999,Completely dissatisfied with this running shoes. Do not recommend it to anyone!!,Negative
