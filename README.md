@@ -123,3 +123,5 @@ This course material is provided for educational purposes. Feel free to use, ada
 ---
 
 *Built with Python 3 and Jupyter Notebooks.*
+### Engr. Dr. Muhammad Nadeem Majeed 
+(Stay Blessed Always)
